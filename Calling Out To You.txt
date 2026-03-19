@@ -1,12 +1,39 @@
+{title: Calling Out To You}
+{artist: Tommy Walker}
+{key: B}
+{tempo: 72}
+{time: 4/4}
+{capo: 0}
+{ccli: 4409132}
+{copyright: © 2001 Universal Music – Brentwood Benson Songs (Admin. by Brentwood-Benson Music Publishing, Inc.) All rights reserved. https://www.tommywalkerministries.org/}
+
 {sop: Verse 1}
-[G]Lord You have told us Lord You have promised
-[Em]That if Your people would [G/D]pray [C]
-[G]That You would hear from heaven
-[G/C]And You would send Your mercy
-[Em]And touch us with Your [G/D]strong healing [C]hand
+[B]Lord You have told us [B/E]Lord You have promised
+That [G#m]if Your [B/F#]people would [E]pray
+That [B]You would hear from heaven
+And [B/E]You would send Your mercy
+And [G#m]touch us with Your [B/F#]strong healing [E]hand
 {eop}
 
 {sop: Chorus}
-[D]So we're calling out to [G]You [D]crying out to You [C]
-[Em]Forgive us of our [D]sin heal our [C]land
-[D]As we seek Your holy [G]face we turn from all our [D]wicked [C]ways
+[F#]So we're [B]calling out to You[F#] [E]crying out to You [F#]
+For[G#m]give us of our [F#]sin heal our [E]land
+[F#]As we [B]seek Your holy face we [F#]turn from [E]all our wicked ways
+[F#]Hear from [G#m]Heaven even [F#]now as we [E]pray
+{eop}
+
+{sop: Chorus}
+Hear from [E]Heaven even now
+Hear your [G#m]people even now
+Hear from [E]Heaven even now
+Hear your [G#m]people even now
+
+{transpose: +1}
+
+{sop: Chorus}
+[F#]So we're [B]calling out to You[F#] [E]crying out to You [F#]
+For[G#m]give us of our [F#]sin heal our [E]land
+[F#]As we [B]seek Your holy face we [F#]turn from [E]all our wicked ways
+[F#]Hear from [G#m]Heaven even [F#]now as we [E]pray
+{eop}
+
