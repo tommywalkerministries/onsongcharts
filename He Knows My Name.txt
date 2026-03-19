@@ -8,29 +8,29 @@
 {copyright: © 1996 Universal Music – Brentwood Benson Songs (Admin. by Brentwood-Benson Music Publishing, Inc.) All rights reserved. https://www.tommywalkerministries.org/}
 
 {sop: Verse 1}
-[E]I ha[F#m7]ve a Ma[E/G#]ker[A]
-[E/B]He formed my hea[B7sus]rt[B7]
+[E]I [F#m7]have a [E/G#]Maker[A]
+[E/B]He formed my [B7sus]heart[B7]
 [E]Before[F#m7] even [E/G#]time began[A]
-My li[E/B]fe was in[B] His hand[E] [F#m7] [E/G#]
+My [E/B]life was [B]in His [E]hand [F#m7] [E/G#]
 {eop}
 
 {sop: Chorus}
-[A]He kno[E]ws my na[B]me [E]
-[A]He kno[E]ws my e[B]v'ry tho[E]ught
+[A]He [E]knows my [B]name [E]
+[A]He [E]knows my [B]ev'ry tho[E]ught
 [A]He se[E]es each te[B]ar that [C#m]falls
 And [A]hears me when[B] I ca[E]ll
 {eop}
 
 {sop: Verse 2}
-[E]I ha[F#m7]ve a Fa[E/G#]ther[A]
-[E/B]He calls me His o[B7sus]wn[B7]
-[E]He'll ne[F#m7]ver lea[E/G#]ve me[A]
-No [E/B]matter whe[B]re I go[E] [F#m7] [E/G#]
+[E]I [F#m7]have a [E/G#]Father[A]
+[E/B]He calls me His [B7sus]own[B7]
+[E]He'll [F#m7]never [E/G#]leave me[A]
+No [E/B]matter [B]where I [E]go [F#m7] [E/G#]
 {eop}
 
 {sop: Chorus}
-[A]He kno[E]ws my na[B]me [E]
-[A]He kno[E]ws my e[B]v'ry tho[E]ught
+[A]He [E]knows my [B]name [E]
+[A]He [E]knows my [B]ev'ry tho[E]ught
 [A]He se[E]es each te[B]ar that [C#m]falls
 And [A]hears me when[B] I ca[E]ll
 {eop}
@@ -43,12 +43,12 @@ Never le[A]aves me, He hears[E] me when I [B]call
 {eop}
 
 {sop: Chorus}
-[A]He kno[E]ws my na[B]me [E]
-[A]He kno[E]ws my e[B]v'ry tho[E]ught
+[A]He [E]knows my [B]name [E]
+[A]He [E]knows my [B]ev'ry tho[E]ught
 [A]He se[E]es each te[B]ar that [C#m]falls
-And [A]hears me when[B] I ca[C#m]ll
+And [A]hears me [B]when I [C#m]call
 {eop}
 
 {sop: Outro}
-And [A]hears me when[B] I ca[E]ll
+And [A]hears me [B]when I [E]call
 {eop}
