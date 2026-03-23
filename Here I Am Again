@@ -1,43 +1,68 @@
 {title: Here I Am Again}
 {artist: Tommy Walker}
+{key: E} 
 {tempo: 88}
-{comment: Hip Hop}
+{time: 4/4}
+{capo: 0}
+{ccli: 3614608}
+{copyright: © 2002 Maranatha! Music (Administered by Music Services)}
 
 {sop: Intro}
-[E] [E] [A] [E/B] [B]
-[F#m7] [E/G#] [A] [F#m7] [E/G#] [A] [E/B] [B]
+[B] [C#m] [A] [E] [F#m7] [E/G#] [A] [E/B] [B]
+[B] [C#m] [A] [E] [F#m7] [E/G#] [A] [E/B] [B]
 {eop}
 
-{sop: Verse}
-[E]Here I am a[G#+7]gain just look-ing for the [C#m7]words [Bm7] [E7]
-That help me [Amaj7]say that my [E/G#]heart is full of [B7sus4]love and [B]prais-es [E]
-[E]I must have prayed a [G#+7]thous-and prayers and [C#m7]sung [Bm7] [E7]
-A hun-dred [A]songs but [B]You are the [A/C#]lover of my [B/D#]soul [B]
-{eop}
-
-{sop: Verse}
-[E]So man-y [G#+7]words, so many [C#m7]songs [Bm7] [E7]
-So many [Amaj7]melo-dies yet [E/G#]allow me one more [B7sus4]dec-la-[B]ra-tion [E]
-[E]You are the [G#+7]center of my [C#m7]life [Bm7] [E7]
-SO [A]I just have to [B]say a[A/C#]gain [B/D#]
+{sop: Verse 1}
+[E]Here I am a[G#7(#5)]gain just lookin'
+[C#m7]For the words that [Bm7]help me [E7]say that,
+[A]My heart is [E/G#]full of love and [F#7]prais[B7sus]es
+[E]I must have [G#7(#5)]prayed a thousand
+[C#m7]Prayers and sung a [Bm7]hundred [E7]songs,
+But [A]I just have to [B]say a[A/C#]gain [B/D#]
 {eop}
 
 {sop: Chorus}
-[E]I just have to [B6/D#]say a[C#m7]gain [Bm7] [E7]
-Oh [A]how [B]I [F#m7]love [E/G#]You [A] [B7sus4] [E]
-[E]I just have to [G#+7]say a[C#m7]gain [Cm(maj7)] [Bm7] [E7]
-More than [A]words can say, in the [B]deepest heartfelt way [A/C#] [B/D#]
-[E]Lord [C#m7]I [Cm(maj7)]love [Bm7]You, [E7] [A]once a-[B]gain re-ceive my [E]praise
+[E]Oh [B/D#]how [C#m7]I [Bm7]love [E7]You 
+[A]More than words can [B]say
+[F#m7]In the [E/G#]deepest heart[A]-felt [B7sus]way
+[E]Oh [G#7(#5)]how [C#m7]Lord [Cm7]I [Bm7]love [E7]You 
+[A]Once again re[B]ceive my [E]praise [A/C#]     [B/D#]
+{eop}
+
+{sop: Verse 2}
+[E]So many [G#7(#5)]words, so many [C#m7]songs,
+So many [Bm7]melod[E7]ies, yet,
+[A]Allow me [E/G#]one more decla[F#7]ration [B7sus]     [B7]
+[E]You are the [G#7(#5)]lover of my [C#m7]soul, the center [Bm7]of my [E]life
+So [A]I just [B]have to say a[A/C#]gain    [B/D#]
+{eop}
+
+{sop: Chorus}
+[E]Oh [B/D#]how [C#m7]I [Bm7]love [E7]You 
+[A]More than words can [B]say
+[F#m7]In the [E/G#]deepest heart[A]-felt [B7sus]way
+[E]Oh [G#7(#5)]how [C#m7]Lord [Cm7]I [Bm7]love [E7]You 
+[A]Once again re[B]ceive my [E]praise [A/C#]     [B/D#]
 {eop}
 
 {sop: Bridge}
-{comment: Repeat bridge till cue}
-[B]Thank you for a [C#m7]brand new day a [A]brand new chance to stand and [E]say, I
-[F#m7]love [E/G#]You [A] [E/B] [B]
-[B]Help me find the [C#m7]words to say that [A]tell you in a brand new [E]way, I
-[F#m7]love [E/G#]You [A] [E/B] [B]
+[B]Thank you for a [C#m7]brand new day,
+[A]A brand new chance to [E]stand and say
+[F#m7]I love [E/G#]You [A]  [Bsus]    [B]
+[B]Help me find the [C#m7]words to say that
+[A]Tell you in a [E]brand new way
+[F#m7]I love [E/G#]you [A]  [Bsus]    [B]
 {eop}
 
-{sop: Final Ending}
-[E]Praise
+{sop: Chorus}
+[E]Oh [B/D#]how [C#m7]I [Bm7]love [E7]You 
+[A]More than words can [B]say
+[F#m7]In the [E/G#]deepest heart[A]-felt [B7sus]way
+[E]Oh [G#7(#5)]how [C#m7]Lord [Cm7]I [Bm7]love [E7]You 
+[A]Once again re[B]ceive my [E]praise [A/C#]     [B/D#]
 {eop}
+
+{sop: Ending}
+[A]Once again re[B]ceive my [E]praise [E]
+{eop}
+
