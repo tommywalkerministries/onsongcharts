@@ -1,0 +1,23 @@
+{title: I Fix My Eyes On You}
+{artist: Tommy Walker}
+{copyright: © 1997 Doulos Publishing}
+{ccli: 2410712}
+
+{sop: Verse}
+I [D2]fix my eyes on You the [A]author of my faith
+[G]Casting aside ev'ry [A]sin and ev'ry [D]weight [A7sus]
+[D2]I fix my eyes on You I [A]lay my burdens down
+[G]Letting the cares of this [A]world now fade a-[D]way
+{eop}
+
+{sop: Chorus}
+[G2]One thing I [A/C#]ask this [G/D]one [D]thing [F#m7]I [Bm]seek
+That [G2]I may dwell in Your [A/C#]house O Lord my [D]King    [D] [Em7] [D/F#]
+[G2]All the days of my [A/C#]life I want to [G/D]gaze up-[D]on Your [F#m7]beau - [Bm7]ty
+And [G]seek You in this [A]holy [D]place [A/C#] [G] [Asus] [A]
+{eop}
+
+{sop: Ending}
+[D/G]All the days of my [A/C#]life I want to [G/D]gaze [D]up-on Your [F#m7]beau - [Bm7]ty
+And [G]seek You in this [A]holy [D]place
+{eop}
