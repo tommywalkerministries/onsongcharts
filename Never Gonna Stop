@@ -1,31 +1,74 @@
 {title: Never Gonna Stop}
+{artist: Tommy Walker}
 {key: G}
+{tempo: 120}
+{time: 4/4}
+{capo: 0}
+{ccli: 3139364}
+{copyright: © 2000 Integrity's Hosanna! Music}
 
-{comment: Intro}
-[G] [D] [Am7] [Am7] [G/B] [C] [G] [D] [Am7] [Em7]
+{sop: Intro/Interlude}
+[G] [D] [Am7] [Am7] [G/B] [C]
+[G] [D] [Am7] [Em7]
+{eop}
 
-{comment: Verse 1}
-For [Am7]Your beauty that's been [D]shown [Am7]for Your mysteries un[Em7]known
-For the [Am7]miracles we've [C]seen we praise You [G]Lord [B7#9] [Em7]
-For the [Am7]story of Your [D]love [Am7]for the wonder of Your [Em7]blood
-How it [Am7]makes the sinner [C]clean someone like [G]me [Em7] [C]
+{sop: Verse}
+For Your [Am7]beauty that's been shown[D]
+For Your [Am7]mysteries unknown[Em7]
+For the [Am7]miracles we've [G/B]seen
+[C]          We praise You [G]Lord [B7#9] [Em7]
 
-{soc}
-{comment: Chorus}
-So I'm [G]never gonna stop [D]never gonna stop [Am7]lifting up my [C]hands to You
-[G]Lifting up my [D]heart [Am7]when the [C]last day comes and goes and
-[G]Time will be no [D]more [Am7]I'll be [G/B]prais[C]ing [A/C#]You [Dsus4] [D]
+For the [Am7]story of Your love[D]
+For the [Am7]wonder of Your blood[Em7]
+How it [Am7]makes the sinner [G/B]clean
+[C]          Someone like [G]me [Em7] [C]
+{eop}
+
+{sop: Chorus}
+So I'm [G]never gonna [D]stop never [Am7]gonna stop [C]
+Lifting [G]up my hands to [D]You Lifting [Am7]up my heart [C]
+When the [G]last day comes and [D]goes and [Am7]time will be no more [G/B]
+[C]I'll be [A/C#]praising [Dsus4]You  [D]
 No I'll [G]never let it [D]end I'll just be[Am7]gin it all a[C]gain
 Shouts of [G]thankfulness and [D]love I'm always [Am7]gonna [C]give
-A [G]thousand years from [D]now before Your [Am7]throne of [G/B]grace and [C]pow'r [A/C#]
-[Dsus4]I'll [D]be [G]praising [D]You [Am7]praising [C]You
-{eoc}
+A [G]thousand years from [D]now before Your [Am7]throne of grace and pow'r [G/B] 
+[C]I'll be [A/C#]praising [D]You, praising [G]You
+{eop}
 
-{comment: Bridge}
-[D]Though [C]pressed on every [D]side with [C]troubles and fears so [D]near me
-And [C]should the whole wide [D]world deny [C]You I'll just
-[Am7]Make it [G/B]louder [C]shout Your [D7sus4]name on high 'cause I'm
+{sop: Solo}
+[G] [D] [Am7] [Am7] [G/B] [C]
+[G] [D] [Am7]
+{eop}
 
-{comment: Outro}
-[Am7]I'll be [G/B]prais[C]ing [G]You
-[Am7]I'll be [G/B]praising [C]You [G]
+{sop: Bridge}
+Though [D]pressed on every [C]side
+With [D]troubles and fears so [C]near me
+And should the [D]whole wide world deny [C]You, I'll just
+[Am7]Make it [G/B]louder shout Your [C]name on [D7sus4]high
+{eop}
+
+{sop: Chorus}
+So I'm [G]never gonna [D]stop never [Am7]gonna stop [C]
+Lifting [G]up my hands to [D]You Lifting [Am7]up my heart [C]
+When the [G]last day comes and [D]goes and [Am7]time will be no more [G/B]
+[C]I'll be [A/C#]praising [Dsus4]You  [D]
+No I'll [G]never let it [D]end I'll just be[Am7]gin it all a[C]gain
+Shouts of [G]thankfulness and [D]love I'm always [Am7]gonna [C]give
+A [G]thousand years from [D]now before Your [Am7]throne of grace and pow'r [G/B] 
+[C]I'll be [A/C#]praising [D]You, praising [G]You
+{eop}
+
+{sop: Interlude 2}
+[G] [D] [Am7] [Am7] [G/B] [C]
+{eop}
+
+{sop: Outro}
+[G]I'll be [D]praising
+[Am7]I'll be [Am7]prai-[G/B]sing [C]You
+[G]I'll be [D]praising
+[Am7]I'll be [Am7]prai-[G/B]sing [C]You
+{eop}
+
+{sop: Ending}
+[G]-You!
+{eop}
