@@ -2,8 +2,11 @@
 {subtitle: (with All Hail the Power)}
 {artist: Tommy Walker}
 {key: D}
+{tempo: }
+{time: }
 {capo: O}
-{comment: © 2016 McKinney Music, Inc. (BMI) (admin LifeWay Worship c/o Music Services, www.musicservices.org). All rights reserved. Used by permission. CCLI #7067896}
+{ccli: 7067896}
+{copyright: © 2016 McKinney Music, Inc. (BMI) (admin LifeWay Worship c/o Music Services, www.musicservices.org). All rights reserved. https://www.tommywalkerministries.org/}
 
 {sop: Verse 1}
 [D]Greater than great, stronger than strong [A/C#]
