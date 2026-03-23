@@ -1,5 +1,7 @@
 {title: I Fix My Eyes On You}
 {artist: Tommy Walker}
+{key: D}
+{capo: 0}
 {copyright: © 1997 Doulos Publishing}
 {ccli: 2410712}
 
