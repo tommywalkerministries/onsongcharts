@@ -1,0 +1,66 @@
+{title: Greater Than Great}
+{subtitle: (with All Hail the Power)}
+{artist: Tommy Walker}
+
+{sop: Verse 1}
+[D]Greater than great, [A/C#]stronger than strong [cite: 6]
+[Bm7]Higher than high, wiser than wise [cite: 7]
+[A]Our [G]God, [A]He is a[D]bove and be[A]yond [cite: 8, 9]
+{eop}
+
+{sop: Verse 2}
+[D]Deeper than deep, [A/C#]wider than wide [cite: 12, 14]
+[Bm7]With mercy that reaches to the heaven so far [cite: 15, 16]
+[A]Our [G]God, [A]He is a[D]bove and be[C7]yond [C#7] [cite: 20, 21, 22]
+{eop}
+
+{sop: Pre-Chorus}
+[D7]Now unto the One who is [G]able, To [E7]do more than we could [A7]ask or imagine [cite: 24, 25, 26, 27, 29]
+[F#7]According to His [Bm7]power within us, [E7]He's the God who can do [A7sus]anything [cite: 30, 31, 32, 33, 34]
+{eop}
+
+{sop: Chorus}
+[D]There is no one like [A/C#]our great God [cite: 36, 37, 38]
+[Bm7]There is no one like [A]our great King [cite: 42, 44]
+[G]Bow before [A]His majesty [cite: 40, 43, 49]
+[D]There is no one like [A/C#]our great God [cite: 41, 44, 48]
+[Bm7]There is no one like [A]our great King [cite: 46, 49]
+[G]We can trust [A]His [D]power and [A7sus]strength [cite: 45, 50]
+{eop}
+
+{sop: Verse 3}
+[E]Greater than great, [B/D#]stronger than strong [cite: 56, 57]
+[C#m7]Higher than high, wiser than wise [cite: 58, 59]
+[B]Our [A]God, [B]He is a[E]bove and be[B]yond [cite: 62, 63, 64]
+{eop}
+
+{sop: Verse 4}
+[E]Deeper than deep, [B/D#]wider than wide [cite: 66, 67, 69]
+[C#m7]With mercy that [A]reaches to the heaven so [B]far [cite: 70, 71, 72, 73]
+[B]Our God, He is a[E]bove and be[Esus]yond [D7] [D#7] [cite: 74, 75]
+{eop}
+
+{sop: Pre-Chorus}
+[E7]Now unto the one who is [A]able, to [F#7]do more than we could [B7]ask or imagine [cite: 77, 78, 79, 80, 81]
+[G#7]According to His [C#m7]power within us, [F#7]He's the God who can do [B]anything [Bsus] [B] [cite: 82, 83, 84, 86]
+{eop}
+
+{sop: Verse 1 - All Hail the Power of Jesus' Name}
+[E]All [B/E]hail the [A/E]power of [Am/E]Jesus' name let [E]angels prostrate fall [cite: 85, 87, 88, 89, 90, 91]
+Bring forth the royal diadem and [B/D#]crown [C#m7]Him [C#m7/B]Lord [F#/A#]o- [E/G#] [F#7] [Bsus] [B] [cite: 91, 92]
+[E]Bring forth the royal [B]diadem and [E7/G#]crown [cite: 93, 94, 95, 97]
+[A]Him [E/B]Lo-[B]rd of [E]all [cite: 98, 99, 100, 101]
+{eop}
+
+{sop: Instrumental}
+[E] [B/D#] [C#m7] [B] [A] [B] [E] [cite: 103]
+{eop}
+
+{sop: Chorus}
+[E]There is no one like [B/D#]our great God [cite: 110, 111, 112]
+[C#m7]There is no one like [B]our great King [cite: 112, 113, 116]
+[A]Bow before [E]His [B]majesty [cite: 114, 115, 117]
+[E]There is no one like [B/D#]our great God [cite: 118, 121]
+[C#m7]There is no one like [A]our great King [cite: 118, 119, 120]
+[B/D#]We can [B]trust His [E]power and strength [cite: 121, 122, 123, 124]
+{eop}
