@@ -31,7 +31,7 @@ A[F#7]ccording to His power wi[Bm7]thin us, He's the [E7]God who can do anything
 [G]          We can trust His power and strength[A] [D] [A7sus]
 {eop}
 
-{transpose: +1}
+{transpose: +2}
 
 {sop: Verse 3}
 [D]Greater than great, stronger than strong [A/C#]
