@@ -12,21 +12,27 @@
 {eop}
 
 {sop: Verse 1}
-[E]How good and pleasant [B]it is
-When we dwell [A]together in [B]unity
+How [E]good and pleasant it [B]is
+When we dwell to[A]gether in uni[B]ty
 And [A]praise the Lord [Bsus]praise the Lord
 (Repeat)
 {eop}
 
 {sop: Chorus}
-Praise the [E]Lord [B] [A] praise the [E]Lord [B] [A]
-(Repeat 4 times)
+Praise the [E]Lo - [B] - [A]rd
+Praise the [E]Lo - [B] - [A]rd
+(Repeat)
 {eop}
 
 {sop: Bridge}
-[A]Showers of [E2/G#]blessing, [F#m7]showers they [Bsus]fall [B]
+[A]Showers of [E2/G#]blessing, [F#m7]showers they [Bsus]fall  [B]
 When we [D]love and live in u-[D/G]ni[G]ty
 When we [F#m7]lift one voice [A/B]loud and [B]strong
+{eop}
+
+{sop: Instrumental}
+[E] [B] [A] [A] [E] [B] [A] [A]
+[E] [B] [A] [A] [E] [B] [A] [A]
 {eop}
 
 {sop: Verse 2}
@@ -34,15 +40,18 @@ When we [F#m7]lift one voice [A/B]loud and [B]strong
 The [A]north is to the [B]south, what we're gonna do
 [A]Praise the Lord, [Bsus]Praise the Lord
 From the [E]rising of the [B]sun to the [A]goin' down of the [B]same
-We're all [A]gonna praise the Lord, [Bsus]praise the Lord
+We're all gonna [A]praise the Lord, [Bsus]praise the Lord
 No matter [E]who comes [B]against us
 No matter [A]what the [B]world says
 We're gonna [A]praise the Lord, [Bsus]praise the Lord
 Cause we [E]know it won't be [B]long
-We'll [A]see our Savior coming in [B]those clouds
+We'll see our [A]Savior coming in those [B]clouds
 We're all [A]gonna praise the Lord, [Bsus]praise the Lord
 {eop}
 
-{sop: Instrumental}
-[E] [B] [A] [E] [B] [A]
+{sop: Chorus}
+Praise the [E]Lo - [B] - [A]rd
+Praise the [E]Lo - [B] - [A]rd
+(Repeat)
 {eop}
+
