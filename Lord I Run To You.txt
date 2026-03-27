@@ -7,31 +7,36 @@
 {ccli: 4016147}
 {copyright: © 2002 Universal Music - Brentwood Benson Songs}
 
+
 {sop: Verse 1}
-[A]Lord I [D]run [A/C#]to You [F#m7]no [E]one [A]else will [D]do [A/C#] [E7sus4] [E7]
-[A]Lord in [D]troubled [A/C#]times I will [B/D#]run straight to [E]You [Dm/F]
-Though my [A/E]heart and flesh may [B(add2)/D#]fail [Db7]
-You're my [Cmaj7]ever present [Bm7]help
-My [Dm/F]tower of strength my [E7sus4]portion [E7]ever[A]more [E7sus4] [E7]
+[A/C#]Lord I [D]run to [A/C#]You     [F#m7] [E]
+[A/C#]No one [D]else will [A/C#]do [E7sus4] [E7]
+[A/C#]Lord in [D]troubled [A/C#]times I will [B/D#]run straight to [E]You 
+Though my [Dm/F]heart and flesh may [A/E]fail 
+You're my [B(add2)/D#]ever present [Db7]help
+My [Cmaj7]tower of [Bm7]strength my [Dm/F]portion ever[E7sus4]more     [E7]
 {eop}
 
 {sop: Verse 2}
-[A]Lord I [D]run [A/C#]to You [F#m7]no [E]one [A]else will [D]do [A/C#] [E7sus4] [E7]
-[A]Lord You [D]said we'd [A/C#]face trouble [B/D#]pain and [E]fear [Dm/F]
-But to [A/E]be of [B(add2)/D#]good cheer [Db7]
+[A/C#]Lord I [D]run to [A/C#]You [F#m7] [E]
+[A/C#]No one [D]else will [A/C#]do [E7sus4] [E7]
+[A/C#]Lord You [D]said we'd [A/C#]face trouble [B/D#]pain and [E]fear
+But to [Dm/F]be of good [A/E]cheer, [B(add2)/D#]be of good [Db7]cheer
 For [Cmaj7]You have over[Bm7]come
 [Dm/F]Overcome the [E7sus4]world [E7]
 {eop}
 
 {soc}
 {comment: Chorus}
-I [Dmaj9]lift my eyes [A/C#]up [F#m7]to the [A/E]mount[E]ains
-[Dmaj9]Where does my [A/C#]help come [F#m7]from?
-It [F#m7]comes from [E]You [A]Lord
-[Dmaj9]You are the [A/C#]maker [F#m7]of earth and [A/E]heav[E]en
-And [Bm7]there is nothing [A/D]that's too hard for [A/E]You [E] [B/D#] [E]
+[Dmaj9]     I lift my [A/C#]eyes up      [F#m7]     to the [A/E]mount[E]ains
+[Dmaj9]     Where does my [A/C#]help come [F#m7]from?
+It comes from [E]You [A]Lord
+[Dmaj9]     You are the [A/C#]maker      [F#m7]     of earth and [A/E]heav[E]en
+[Bm7]     And there is [A/D]nothing that's too [A/E]hard for You [E] [B/D#] [E]
 {eoc}
 
 {sop: Outro}
-[A]Lord I [D]run [A/C#]to You [F#m7]no [E]one [A]else [D]will [A/C#]do [E7sus4] [E7] [A/C#]
+[A/C#]Lord I [D]run to [A/C#]You     [F#m7] [E]
+[A/C#]No one [D]else will [A/C#]do [E7sus4] [E7]
+[A/C#]Lord I [D]run [E]to [A]You
 {eop}
