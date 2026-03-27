@@ -1,0 +1,59 @@
+{title: Nearer}
+{artist: Tommy Walker}
+{key: F}
+{tempo: 64}
+{time: 4/4}
+{copyright: © 2009 WeMobile Music / Tommy Walker Ministries}
+
+{sop: Intro}
+[F] [C/E] [Dm] [C] [Bb] [C] [F]
+{eop}
+
+{sop: Verse 1}
+[Fsus]There is a [F]place, a [C/E]place that's [Dm]safe [C]
+[Bb]     Here in Your [Csus]pre[C]sence, [F]Lord
+[Fsus]There is a [F]place where [C/E]fears fade a[Dm]way [C]
+[Bb]     Here in Your [Csus]pre[C]sence, [F]Lord [Gm]
+{eop}
+
+{sop: Chorus 1}
+[F/A]So we draw [Bbmaj7]nea[Bb6]rer,
+[Csus]nea[C]rer, [Bb/F]nea[F]rer, [C/E]nea[Dm]rer
+Lord, [Bbmaj7]nea[Bb6]rer [Csus]to [C]Your [F]throne [Gm]
+[F/A]So we draw [Bbmaj7]nea[Bb6]rer,
+[Csus]nea[C]rer, [Bb/F]nea[F]rer, [C/E]nea[Dm]rer
+Lord, [Bbmaj7]nea[Bb6]rer [Csus]to [C]Your [F]throne
+{eop}
+
+{sop: Verse 2}
+[Fsus]There is a [F]place, a [C/E]place of [Dm]hope [C]
+[Bb]     Here in Your [Csus]pre[C]sence, [F]Lord
+[Fsus]Sorrows they [F]fade, and [C/E]dreams are re[Dm]made [C]
+[Bb]     Here in Your [Csus]pre[C]sence, [F]Lord [D]
+{eop}
+
+{transpose: +2}
+
+{sop: Verse 3}
+There is a [F]place, [C/E]a place of [Dm]grace [C]
+[Bb]     Here in Your [Csus]pre[C]sence, [F]Lord
+[Fsus]Sin and all [F]shame, they are [C/E]taken a[Dm]way [C]
+[Bb]     Here in Your [Csus]pre[C]sence, [F]Lord [Gm]
+{eop}
+
+{sop: Chorus 2}
+[F/A]So we draw [Bbmaj7]nea[Bb6]rer,
+[Csus]nea[C]rer, [Bb/F]nea[F]rer, [C/E]nea[Dm]rer
+Lord, [Bbmaj7]nea[Bb6]rer [Csus]to [C]Your [F]throne [Gm]
+[F/A]So we draw [Bbmaj7]nea[Bb6]rer,
+[Csus]nea[C]rer, [Bb/F]nea[F]rer, [C/E]nea[Dm]rer
+Lord, [Bbmaj7]nea[Bb6]rer [Csus]to [C]Your [F]throne
+{eop}
+
+{sop: Outro}
+[F] [Bb] [F] [Bb] 
+Where I find my [F]peace, where my troubles [Bb]cease
+Where I find my [F]hope, where I find Your [Bb]grace
+Thank You [F]Lord, oh thank You [Bb]Lord
+[F]
+{eop}
