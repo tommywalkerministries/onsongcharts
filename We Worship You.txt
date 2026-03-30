@@ -1,0 +1,70 @@
+{title: We Worship You}
+{artist: Tommy Walker & Eileen Walker}
+{key: A}
+{tempo: 68}
+{time: 4/4}
+{album: Highest Praises}
+{copyright: ©2021 Tommy Walker Ministries}
+
+{sop: Verse 1}
+[E7sus]We worship [A]You, [C#m7]not for the [F#m]things 
+that You [Bm7]do
+[Dm/F]Not for the [E7sus]blessings You [A]give 
+[C#m7]Though You’ve been [F#m]faithful and [Bm7]true 
+with [Dm/F]mercies brand [E7sus]new
+{eop}
+
+{sop: Pre-Chorus (Duet)}
+[C#7]But be[B/D#]cause [C#/F]there is [F#m9]no one 
+[F#m7/E]above You
+[D]Just because You are our [E7sus]God [D/F#] [E/G#]
+{eop}
+
+{sop: Chorus}
+We [A2]worship [C#m7]You, [F#m7]
+we [Bm7]worship [Dm/F]You [E7sus]
+We [A2]honor [C#m7]You, [F#m7]
+we [Bm7]honor [Dm/F]You [E7sus]
+{eop}
+
+{sop: Verse 2}
+[E7sus]We worship [A]You, [C#m7]simply be[F#m]cause 
+You are [Bm7]God
+Un[Dm/F]created and [E7sus]holy, You [A]are 
+The [C#m7]maker of [F#m]all that there [Bm7]is, 
+the [Dm/F]judge over [E7sus]all
+{eop}
+
+{sop: Pre-Chorus (Women Melody / Men Tenor)}
+[C#7]And be[B/D#]cause [C#/F]there is [F#m9]no one 
+[F#m7/E]above You
+[D]Just because You are our [E7sus]God [D/F#] [E/G#]
+{eop}
+
+{sop: Vamp 1}
+All [A]blessing, all honor, [C#m7]all glory, [F#m7]all power
+All [Bm7]strength and all wisdom
+Be [Dm/F]unto the Lamb and [E7sus]unto the King
+
+All [A]blessing, all honor, [C#m7]all glory, [F#m7]all power
+All [Bm7]strength and all wisdom
+Be [Dm/F]unto the Lamb and [E7sus]unto the King
+{eop}
+
+{sop: Vamp 2}
+The [A]giver of blessings, 
+the [C#m7]source of all [F#m7]power
+All [Bm7]wisdom is from You
+Let [Dm/F]every knee bow and [E7sus]everyone shout
+{eop}
+
+{sop: Vamp 3}
+The [A]Alpha Omega, 
+[C#m7]Beginning and [F#m7]Ending
+Cre[Bm7]ator and Ruler
+Of [Dm/F]all that is seen and [E7sus]ever will be
+{eop}
+
+{sop: Outro}
+[A] [C#m7] [F#m7] [Bm7] [Dm/F] [E7sus] [A]
+{eop}
