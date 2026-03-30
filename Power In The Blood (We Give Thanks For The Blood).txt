@@ -1,0 +1,75 @@
+{title: Power In The Blood (We Give Thanks For The Blood)}
+{artist: Tommy Walker}
+{key: F}
+{tempo: 105}
+{time: 4/4}
+{capo: 0}
+{ccli: 7185128}
+{copyright: ©2021 WeMobile Music [BMI] (Admin. Music Services.)}
+
+{sop: Intro}
+[Cm7] [F7] [Bbmaj7] [Eb7] [Cm7] [F7] [Bbmaj7] [Eb7]
+[Cm7] [F7] [Bbmaj7] [Eb7] [Cm7] [F7] [Bbmaj7] [Eb7]
+{eop}
+
+{sop: Verse 1}
+[F]Would you be [Bb]free from your [F]burden of sin
+There's [C]power in the blood, [F]power in the blood
+[F]Would you o'er [Bb]evil a [F]victory win
+There's [C]wonderful power in the blood
+[Bb] [F/A] [Gm7] [F] [C7sus]
+{eop}
+
+{sop: Chorus}
+There is [F]power, [F]power, [Bb]wonder-working [F]power
+[C7]In the [F7/A]blood of the [Bb]Lamb
+There is [F]power, [F/Eb]power, [Bb/D] [Bb]
+[F]wonder-working power
+[C7]In the precious blood of the Lamb
+[Bb] [F/A] [Gm7] [F] [C7sus]
+{eop}
+
+{sop: Verse 2}
+[F]Would you be [Bb]free from your [F]passion and pride
+There's [C]power in the blood, power in the blood
+[F]Come for a [Bb]cleansing to [F]Calvary's tide
+There's [C]wonderful power in the blood
+[Bb] [F/A] [Gm7] [F] [C7sus]
+{eop}
+
+{sop: New Chorus}
+[Cm7]We give [F7]thanks for the [Bbmaj7]blood [Eb7]
+[Cm7]And its [F7]wonder [Bbmaj7]working [Eb7]power
+[Cm7]All our [F7]praise goes [Bbmaj7]to the [Eb7]Lamb
+[Cm7]And His [F7]wonder [Bbmaj7]working [Eb7]power
+[mod.] [D7sus]
+{eop}
+
+{sop: Verse 3}
+[G]Would you be [C/G]whiter, much [G]whiter than snow
+There's [D7]power in the blood, [G]power in the blood
+[G]Sin-stains are [C]lost in its [G]life-giving flow
+There's [D7]wonderful power in the blood
+[C] [G/B] [Am7] [G] [Dsus7]
+{eop}
+
+{sop: Chorus}
+There is [G]power, [G]power, [C]wonder-working [G]power
+[D7]In the [G7/B]blood of the [C]Lamb
+There is [G]power, [G]power,
+[D7]wonder-working [G/F]power [C/E]
+In the precious blood of the [G]Lamb
+{eop}
+
+{sop: New Chorus}
+[Dm7]We give [G]thanks for the [Cmaj7]blood [F7]
+[Dm7]And its [G]wonder [Cmaj7]working [F7]power
+[Dm7]All our [G]praise goes [Cmaj7]to the [F7]Lamb
+[Dm7]And His [G]wonder [Cmaj7]working [F7]power
+{eop}
+
+{sop: Outro}
+[Dm7] [G7] [Cmaj7] [F7] [Dm7] [G7] [Cmaj7] [F7]
+In the precious blood of the [G]Lamb
+[C] [G/B] [Am7] [C] [G/B] [Am7] [C] [G/B] [Am7] [G]
+{eop}
