@@ -1,0 +1,45 @@
+{title: That's Why We Praise Him}
+{artist: Tommy Walker}
+{key: A}
+{tempo: 79}
+{time: 4/4}
+{capo: 0}
+{ccli: 2668576}
+{copyright: ©1999 Universal Music Brentwood Benson Songs | WeMobile Music}
+
+{sop: Verse 1}
+[A]He came to live, [E]live a perfect life [D] [E]
+[A]He came to be [E]the Living Word, our light [D] [E]
+[A]He came to die [E]so we'd be reconciled [D] [E]
+[A]He came to rise [E]to show His pow'r and [D]might [E/D] [D] [E]
+{eop}
+
+{sop: Chorus}
+[A]That's why we praise Him, [E]that's why we sing
+[A]That's why we offer Him [D]our ev - [E/D] 'ry - [D] [E]thing
+[A]That's why we bow down [E]and worship this King
+[Bm]'Cause He gave [A/C#]His [Bm/D]ev - 'ry - [Esus]thing [F#m]
+{eop}
+
+{sop: Verse 2}
+[A]He came to live, [E]live again in us [D] [E]
+[A]He came to be [E]our conquering King and friend [D] [E]
+[A]He came to heal [E]and show the lost ones His love [D] [E]
+[A]He came to go [E]prepare a place for [D]us [E/D] [D] [E]
+{eop}
+
+{sop: Interlude}
+[A]Yeah, [E]yeah [Dmaj7]
+[A]He gave [E]everything [Dmaj7]
+{eop}
+
+{sop: Bridge}
+[A]Hal - [E/G#]le, [D]hallelu - [E]jah, [A]hal - [E/G#]le, [D]hallelu - [E]jah
+[A]Hal - [E/G#]le, [D2]hallelu - [E]jah, [A]hal - [E/G#]le, [D2]hallelu - [E]jah
+[A]Hal - [E]le, [D]hallelu - [E]jah, [A]hal - [E]le, [D]hallelu - [E]jah
+[A]Hal - [E]le, [D]hallelu - [E]jah, [A]hal - [E]le, [D]hal - [A/D]le [D]lu - [E]jah
+{eop}
+
+{sop: Ending}
+[Bm]'Cause He gave [A/C#]His [Bm/D]ev - 'ry - [Esus]thing [A]
+{eop}
