@@ -1,0 +1,47 @@
+{title: To God Be The Glory}
+{artist: Tommy Walker}
+{key: D}
+{tempo: 100}
+{time: 6/8}
+{capo: 0}
+{ccli: 4556208}
+{copyright: ©2005 Universal Music - Brentwood Benson Songs}
+
+{sop: Verse 1}
+To [D]God be the [D/F#]glory great [A]things He hath [D7]done 
+So [G]loved He the [D/F#]world that He [E7]gave us His [A]Son 
+Who [D]yielded His [D/F#]life an a- [A]tonement for [D7]sin 
+And [G]opened the [Bm7]life gates that [Asus]all may go [D]in [G] [G/B] [A/C#]
+{eop}
+
+{sop: Chorus}
+Praise the [D]Lord [A/C#] praise the [Bm7]Lord [D/A]
+Let the [G]earth [D/F#]hear His [Asus]voice [D#°]
+Praise the [Em7]Lord [D#°] praise the [Em7/D]Lord [A/C#]
+Let the [A]peo - [A/C#]ple re - [D]joice [A]
+O [D]come to the [D/F#]Father through [A]Jesus the [D7]Son 
+And [G]give Him the [Bm7]glory
+Great [D/A]things He [A]has [D]done [G] [D] [G]
+(To Chorus) Great [D/A]things He [A]has [D]done [G] [G/B] [A/C#]
+{eop}
+
+{sop: Verse 2}
+O [D]perfect re - [D/F#]demption the [A]purchase of [D7]blood 
+To [G]ev'ry be - [D/F#]liever the [E7]promise of [A]God 
+The [D]vilest of - [D/F#]fender who [A]truly be - [D7]lieves 
+That [G]moment from [Bm7]Jesus a [A/D]pardon [A]re - [D]ceives [G] [D] [G]
+{eop}
+
+{sop: Verse 3}
+Great [D]things He hath [D/F#]taught us great [A]things He hath [D7]done 
+And [G]great our re - [D/F#]joicing through [E7]Jesus the [A]Son 
+But [D]purer and [D/F#]higher and [A]greater will [D7]be 
+Our [G]wonder our [Bm7]transport when [A/D]Jesus [A]we [D]see [G] [G/B] [A/C#]
+{eop}
+
+{sop: Bridge}
+[A]Glory [Bm7] glory [G] glory [D/F#] glory 
+[Em7]Give Him [G]glory great [E7/G#]things He has [A]done [E7]
+[A]Glory [Bm7] glory [G] glory [D/F#] glory 
+[Em7]Give Him [G]glory great [D/A]things He [A]has [D]done [(G] [G/B] [A/C#)]
+{eop}
