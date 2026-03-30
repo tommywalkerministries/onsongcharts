@@ -1,0 +1,65 @@
+{title: When I Don't Know What To Do}
+{artist: Tommy Walker}
+{key: G}
+{capo: 0}
+{tempo: 74}
+{time: 4/4}
+{ccli: }
+{copyright: WeMobile ©Copyright 3-05}
+
+{sop: Verse 1}
+[G]Lord [Cm/G]I sur-[G]rend-er [Fm11]all
+To Your [Em7]strong and [Em7/D]faith-ful [C]hand
+In [E7]ev-ery-[E7/G#]thing I [Am7]will give thanks
+Though I'll [Dsus4]ne-ver [D]un-der-[G]stand
+{eop}
+
+{sop: Verse 2}
+[G]All [Cm/G]the [G]mys-te-ries [Fm11]a-round me
+I'll [Em7]just trust Your [D/F#]per-fect [G]plan
+I [E7]will [E7/G#]lift [Am7]my hands to You
+When I [Dsus4]don't [D]know what to [G]do
+{eop}
+
+
+{sop: Chorus}
+When I [G]don't know [Em7]what to [D]do
+I'll lift [Em7]my [D/F#]hands
+When I [Am7]don't know [Am7]what [G/B]to [C]say
+[D]I'll [Em7]speak [D/F#]Your praise
+When I [G]don't know [Em7]where to [D]go
+I'll [Em7]run [D/F#]to Your [G]throne
+When I [Am7]don't know [Am7]what [G/B]to [C]think
+I'll [Dsus4]stand [Em7]on [D/F#]Your [G]truth
+When I [G]don't know what to [G]do
+{eop}
+
+{sop: Bridge}
+[C]As I bow my [Am7]knee
+Send Your [C]per-fect peace
+Send Your [C]per-fect peace [G/B]Lord
+[Am7]As I lift my [Am7]hands
+Let Your [Am7]heal-ing [G/B]come
+Let Your [C]heal-ing [D]come [D/F#]to [E/G#]me
+{eop}
+
+{transpose: +2}
+
+{sop: Chorus}
+When I [G]don't know [Em7]what to [D]do
+I'll [Em7]lift [D/F#]my hands
+When I [Am7]don't know [Am7]what [G/B]to [C]say
+[D]I'll [Em7]speak [D/F#]Your praise
+When I [G]don't know [Em7]where to [D]go
+I'll [Em7]run to [D/F#]Your [G]throne
+When I [Am7]don't know [Am7]what [G/B]to [C]think
+I'll [D]stand [Em7]on [D/F#]Your [G]truth
+When I [Em7]don't know [D/F#]what to [G]do
+{eop}
+
+{sop: Outro}
+[G] [Em7] [D] [D] [Em7]
+Don't know what to [Am7]do
+[Am7] [D] [Em7] [D/F#] [G]
+When I don't know what to [G]do
+{eop}
