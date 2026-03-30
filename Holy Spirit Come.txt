@@ -1,0 +1,26 @@
+{title: Holy Spirit Come}
+{artist: Tommy Walker}
+{key: A}
+{tempo: 68}
+{time: 4/4}
+{capo: 0}
+{ccli: 5124119}
+{copyright: 2008 Universal Music - Brentwood Benson Songs}
+
+{sop: Verse}
+[A]Holy Spirit [F#m11]come [F#m7]
+[D]Holy Spirit [C#m11]move [C7]
+[B7]Take Your [A/C#]rightful [B7/D#]place [E]in us [E/D]
+[A/C#]Holy Spirit [D]come [Fdim]
+[Em6]Holy [D#m7(b5)]Spirit [D]move
+[A/E]Take Your [E7]rightful [A]place in us [Asus4] [A]
+{eop}
+
+{sop: Chorus / Bridge}
+[A]Holy Spirit [E/G#]come
+[F#m7]Holy Spirit [E]move [D]
+[A]Bring Your hope, [E/G#]bring Your love
+[F#m7]Bring Your joy, [E]bring Your [D]peace
+[A]Breathe new life [E/G#]in us
+[F#m7]Holy [E]Spirit [D]come
+{eop}
