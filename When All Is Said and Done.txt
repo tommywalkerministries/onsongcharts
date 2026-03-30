@@ -1,0 +1,39 @@
+{title: When All Is Said And Done}
+{artist: Tommy Walker}
+{key: D}
+{tempo: 74}
+{time: 4/4}
+{ccli: 3239344}
+{copyright: ©2000 Integrity's Praise! Music}
+
+{sop: Verse}
+[D]When all is said and done [Em/G]
+and [A]ev'ryone is gone [Em7]
+Lord You're [Em7]really all I want [D] [A]
+When the [D]best the world has just 
+leaves me [A]feeling numb [Em/G]
+Lord You're [Em7]really all I want [D] [A]
+{eop}
+
+{sop: Chorus}
+[D]All that I long for [A]
+all that I hope for [Em7]
+Is [D/F#]just that [G]sense of You 
+[G]coming near [D] [A]
+
+[D]All that my heart is [A]
+hungry to have is [Em7]
+Just [D/F#]one more [G]touch from Your 
+[G]loving hand [D] [A]
+{eop}
+
+{sop: Instrumental}
+| [G] | [A/G] | [G] | [A/G] |
+{eop}
+
+{sop: Tag}
+[G]When all is said and done 
+[D]Lord You're [A]all I [G]want [D]
+[G]When all is said and done 
+[D]Lord You're [A]all I [G]want [D]
+{eop}
