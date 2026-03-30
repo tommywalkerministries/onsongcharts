@@ -1,0 +1,45 @@
+{title: Thank You For Loving Me}
+{artist: Tommy Walker}
+{key: D}
+{tempo: 68}
+{time: 4/4}
+{capo: 0}
+{ccli: 4151696}
+{copyright: ©2003 Integrity's Praise! Music | WeMobile Music}
+
+{sop: Verse 1}
+[D]What love the [A/C#]Father has lavished on us [A(4)/G]
+That [Bm7]we should be [Bm7/A]called His [G]sons and daughters precious in His sight
+[D]Greater love this [A/C#]world had never seen
+When He [Bm7/A]hung on that [G]tree [Asus] [A]
+O why would He do [D]such a thing for [A/C#]dirty sinners like [Bm7]you and [Bm7/A]me
+{eop}
+
+{sop: Chorus}
+[D]O God [A/C#]thank You for [Bm]loving me
+[G]When on the cross You made histo[D/A]ry
+Lord You [D/F#]died [D] [A/C#]for me [D/A] [G]for ever [Asus]my [A]praise will go [Bm]to Thee
+O God thank You for choosing me
+[G]To be Your child and bear Your Name
+[D/F#]O Jesus [G]I will [Asus]never cease to sing Your praise
+{eop}
+
+{sop: Verse 2}
+[D]Your love is [A/C#]patient and humble and kind
+[Bm7]It's greater [Bm7/A]than all my [G]sin [Asus] [A]
+It always protects and trusts and hopes and will have no end
+[D]It's Your love that [A/C#]lifted me up from the depths set my feet on a solid rock
+[Bm7]With a firm [Bm7/A]place to [G]stand Lord I [Asus]always will [A]trust in Your loving hand
+{eop}
+
+{sop: Bridge}
+[G2]How wide how [Asus]long how [A]high how deep
+[G2]How endless [Asus]is Your [A]love for me
+[G2]How wide how [Asus]long how [A]high how deep
+[G2]How endless [Asus]is Your [A]love for me
+{eop}
+
+{sop: Ending}
+[D] [A/C#]Thank You for [Bm7]loving [G]me (5X)
+[D]Thank You for loving me
+{eop}
