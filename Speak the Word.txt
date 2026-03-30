@@ -1,0 +1,51 @@
+{title: Speak The Word}
+{artist: Tommy Walker}
+{key: E}
+{tempo: 108}
+{time: 4/4}
+{capo: 0}
+{ccli: 7057124}
+{copyright: ©2016 McKinney Music, Inc. (BMI)}
+
+{sop: Verse 1}
+[E]Speak the word, speak the word, speak the word
+The e[B/D#]ternal, infallible word
+[F#m7]Speak the [E/G#]truth to [A]me, let it [F#m7]set [E/G#]me [A]free
+{eop}
+
+{sop: Verse 2}
+[E]Speak the word, speak the word, speak the word
+The e[B/D#]ternal, divine, holy word
+[F#m7]Let it [E/G#]calm my [A]soul, [F#m7]shape and [E/G#]make me [A]whole [E]speak the word
+{eop}
+
+{sop: Chorus}
+[E]I will [B/D#]hide it [A/C#]in my [Am/C]heart, cherish every part
+[E/B]Let it [C#m7]heal, re[F#m7]new, [E/G#]cleanse me [B]through and through
+[E]I will [B/D#]make it [A/C#]my de[Am/C]light, living by the light
+[E/B]My [C#m7]faith I [Amaj7]know will rise in these [B]words so rich and wise
+[E] [B/D#] [C#m7] [A]Speak the word
+{eop}
+
+{sop: Verse 3 (Key Change)}
+[A]Speak the word, speak the word, speak the word
+The e[E/G#]ternal, infallible word
+[Bm7]Let its [A/C#]pow- [D]er rise [Bm7]to dis[A/C#]pel all [D]lies
+{eop}
+
+{sop: Verse 4}
+[A]Speak the word, speak the word, speak the word
+The e[E/G#]ternal, divine, holy word
+[Bm7]Let it [A/C#]light my [D]path as [Bm7]each pro- [A/C#]mise [D]stand, [A]speak the word
+{eop}
+
+{sop: Chorus}
+[A]I will [E/G#]hide it [D/F#]in my [Dm/F]heart, cherish every part
+[A/E]Let it [F#m7]heal, re[Dmaj7]new, [E]cleanse me through and through
+[A]I will [E/G#]make it [D/F#]my de[Dm/F]light, living by it's light
+[A/E]My [F#m7]faith I [Dmaj7]know will rise in these [E]words so rich and wise
+{eop}
+
+{sop: Tag}
+[A]Speak the word, [E/G#] [D/F#] [D] [A]Speak the word
+{eop}
