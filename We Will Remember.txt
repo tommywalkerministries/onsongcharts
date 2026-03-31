@@ -6,24 +6,24 @@
 {copyright: ©2004 WeMobile Music}
 
 {sop: Chorus 1}
-[D]We will re-mem-er, [G]we will re-mem-ber 
-[D]we will re-mem-ber the [D]works [A/C#]of [Bm7]Your [A]hands [D] [D7/F#] [G] [Em7]
+[D]We will remember, [G]we will remember
+[D]we will remember the [D]works [A/C#]of [Bm7]Your [A]hands [D] [D7/F#] [G] [Em7]
 We will [D/A]stop and give You [A7sus4]praise 
-for [D]great is Thy [G]faith-[D/F#]ful-[Em7]ness [D]
+for [D]great is Thy [G]faith[D/F#]ful[Em7]ness [D]
 {eop}
 
 {sop: Verse 1}
-[G/D]You're our cre-[D]a-tor [D/F#]our life su-stain-er 
-[Bm7]de-liv-er-er our [A]comfort our joy [D]
-[G]Through-out the [D/A]ag-es [A7sus4]You've been our [D]shelter 
+[G/D]You're our cre[D]ator [D/F#]our life sustainer 
+[Bm7]deliverer our [A]comfort our joy [D]
+[G]Throughout the [D/A]ag-es [A7sus4]You've been our [D]shelter 
 our [G]peace [D/F#]in the [Em7]midst of the [A]storm
 {eop}
 
 {sop: Verse 2}
 [G/D]With signs and [D]won-ders [D/F#]You've shown Your pow-er 
 [Bm7]with precious blood You [A]showed us Your grace [D]
-[G]You've been our [D/A]help-er [A7sus4]our lib-er-a-tor 
-the [D]giv-[G]er [D/F#]of [Em7]life [A]with no end
+[G]You've been our [D/A]help-er [A7sus4]our liberator 
+the [D]giv[G]er [D/F#]of [Em7]life [A]with no end
 {eop}
 
 {sop: Verse 3}
@@ -34,10 +34,10 @@ and [D]He [G]is [D/F#]the [Em7]faith-[A]ful one
 {eop}
 
 {sop: Bridge}
-[A]Ha-lle-lu-jah, [A] [Bm7] [Bm7] [D/F#] ha-lle-lu-jah 
-[G]to the [D]one from whom all blessings [A]flow [E7] [E7] [A] [A]
-[A]Ha-lle-lu-jah, [A] [Bm7] [Bm7] [D/F#] ha-lle-lu-jah 
-[G]to the [D]one whose glory has been [A]shown [B7sus] [B7]
+[A]Hallelujah, [A] [Bm7] [Bm7]     hallelujah [D/F#]
+to the [G]one from [D]whom all blessings [A]flow [E7] [E7] [A] [A]
+Ha-lle-lu-jah, [A] [Bm7] [Bm7]     hallelujah [D/F#]
+to the [G]one whose [D]glory has been [A]shown [B7sus] [B7]
 {eop}
 
 {transpose: +2}
