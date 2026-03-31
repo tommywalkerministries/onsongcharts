@@ -8,7 +8,7 @@
 {copyright: © 2005 Universal Music - Brentwood Benson Songs / Doulos Publishing}
 
 {sop: Verse 1}
-[G]     Lord [Cm/G]I [G]sur-[Fm11]render [B7b5]all [B7]
+[G]     Lord [Cm/G]I [G]sur-[F#m11]render [B7b5]all [B7]
 [Em7]     To Your [Em7/D]strong and faithful [C]hand [E7] [E7/G#]
 [Am7]     In everything I will give [Dsus4]thanks to [D]You [Em7]
 [Am7]     I [G/B]just [C]trust Your perfect [D]plan
@@ -21,7 +21,7 @@ When I [D]don't know [Em7]what to say[Am7]
 [Am7]I'll [G/B]speak [C]Your [D]praise
 When I [Em7]don't know [D/F#]where to go [G]
 I'll [G]run [Em7]to Your [D]throne
-When I [D]don't know [Em7]what [G/B]to think[Am7]
+When I [D]don't know [Em7]what to think[Am7]
 I'll [Am7]stand [G/B]on [C]Your [D]truth
 When I [Em7]don't know [D/F#]what to do [G]
 {eop}
@@ -47,13 +47,13 @@ Let Your healing come to [G/B]me
 {transpose: +2}
 
 {sop: Chorus}
-When I [Em7]don't know [D/F#]what to do [G]
+When I [C/E]don't know [D/F#]what to do [G]
 [G]I'll [Em7]lift my [D]hands
 When I [D]don't know [Em7]what to say[Am7]
 [Am7]I'll [G/B]speak [C]Your [D]praise
 When I [Em7]don't know [D/F#]where to go [G]
 I'll [G]run [Em7]to Your [D]throne
-When I [D]don't know [Em7]what [G/B]to think[Am7]
+When I [D]don't know [Em7]what to think[Am7]
 I'll [Am7]stand [G/B]on [C]Your [D]truth
 When I [Em7]don't know [D/F#]what to do [G]
 {eop}
