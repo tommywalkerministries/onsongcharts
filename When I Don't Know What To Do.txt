@@ -4,62 +4,61 @@
 {capo: 0}
 {tempo: 74}
 {time: 4/4}
-{ccli: }
-{copyright: WeMobile ©Copyright 3-05}
+{ccli: 4556332}
+{copyright: © 2005 Universal Music - Brentwood Benson Songs / Doulos Publishing}
 
 {sop: Verse 1}
-[G]Lord [Cm/G]I sur-[G]rend-er [Fm11]all
-To Your [Em7]strong and [Em7/D]faith-ful [C]hand
-In [E7]ev-ery-[E7/G#]thing I [Am7]will give thanks
-Though I'll [Dsus4]ne-ver [D]un-der-[G]stand
+[G]     Lord [Cm/G]I [G]sur-[Fm11]render [B7b5]all [B7]
+[Em7]     To Your [Em7/D]strong and faithful [C]hand [E7] [E7/G#]
+[Am7]     In everything I will give [Dsus4]thanks to [D]You [Em7]
+[Am7]     I [G/B]just [C]trust Your perfect [D]plan
 {eop}
-
-{sop: Verse 2}
-[G]All [Cm/G]the [G]mys-te-ries [Fm11]a-round me
-I'll [Em7]just trust Your [D/F#]per-fect [G]plan
-I [E7]will [E7/G#]lift [Am7]my hands to You
-When I [Dsus4]don't [D]know what to [G]do
-{eop}
-
 
 {sop: Chorus}
-When I [G]don't know [Em7]what to [D]do
-I'll lift [Em7]my [D/F#]hands
-When I [Am7]don't know [Am7]what [G/B]to [C]say
-[D]I'll [Em7]speak [D/F#]Your praise
-When I [G]don't know [Em7]where to [D]go
-I'll [Em7]run [D/F#]to Your [G]throne
-When I [Am7]don't know [Am7]what [G/B]to [C]think
-I'll [Dsus4]stand [Em7]on [D/F#]Your [G]truth
-When I [G]don't know what to [G]do
+When I [Em7]don't know [D/F#]what to do [G]
+[G]I'll [Em7]lift my [D]hands
+When I [D]don't know [Em7]what to say[Am7]
+[Am7]I'll [G/B]speak [C]Your [D]praise
+When I [Em7]don't know [D/F#]where to go [G]
+I'll [G]run [Em7]to Your [D]throne
+When I [D]don't know [Em7]what [G/B]to think[Am7]
+I'll [Am7]stand [G/B]on [C]Your [D]truth
+When I [Em7]don't know [D/F#]what to do [G]
 {eop}
 
+{sop: Interlude}
+{comment: To verse 1}
+[G] [Em] [D] [Em7] [D/F#]
+{comment: To bridge}
+[G] [Em] [D] [D] [Em7] [Am7] [Am7] [G/B] [C] [D]
+
 {sop: Bridge}
-[C]As I bow my [Am7]knee
-Send Your [C]per-fect peace
-Send Your [C]per-fect peace [G/B]Lord
-[Am7]As I lift my [Am7]hands
-Let Your [Am7]heal-ing [G/B]come
-Let Your [C]heal-ing [D]come [D/F#]to [E/G#]me
+[C]As I bow my knee
+Send Your perfect peace
+Send Your perfect peace Lord[G/B]
+[Am7]As I lift my hands
+Let Your healing come
+Let Your healing come to [G/B]me
+{comment: Repeat}
+
+[C] [C] [D]
 {eop}
 
 {transpose: +2}
 
 {sop: Chorus}
-When I [G]don't know [Em7]what to [D]do
-I'll [Em7]lift [D/F#]my hands
-When I [Am7]don't know [Am7]what [G/B]to [C]say
-[D]I'll [Em7]speak [D/F#]Your praise
-When I [G]don't know [Em7]where to [D]go
-I'll [Em7]run to [D/F#]Your [G]throne
-When I [Am7]don't know [Am7]what [G/B]to [C]think
-I'll [D]stand [Em7]on [D/F#]Your [G]truth
-When I [Em7]don't know [D/F#]what to [G]do
+When I [Em7]don't know [D/F#]what to do [G]
+[G]I'll [Em7]lift my [D]hands
+When I [D]don't know [Em7]what to say[Am7]
+[Am7]I'll [G/B]speak [C]Your [D]praise
+When I [Em7]don't know [D/F#]where to go [G]
+I'll [G]run [Em7]to Your [D]throne
+When I [D]don't know [Em7]what [G/B]to think[Am7]
+I'll [Am7]stand [G/B]on [C]Your [D]truth
+When I [Em7]don't know [D/F#]what to do [G]
 {eop}
 
 {sop: Outro}
-[G] [Em7] [D] [D] [Em7]
-Don't know what to [Am7]do
-[Am7] [D] [Em7] [D/F#] [G]
-When I don't know what to [G]do
+[G] [Em7] [D] [D] [Em7] [Am7] [Am7] [G/B]
+[D]     When I [Em7]don't know [D/F#]what to do [G]
 {eop}
