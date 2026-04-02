@@ -9,9 +9,9 @@
 
 {sop: Verse 1}
 [G]I am Your servant [Cmaj7]and I am listening
-[Em7]Speak to me, Lord, [D]speak to [C]me
+[Em7]     Speak to me,[D] Lord, speak to [C]me
 [G]I need Your wisdom, [Cmaj7]Your truth and comfort
-[Em7]Speak to me, Lord, [D]speak to [Gsus]me [G]
+[Em7]     Speak to me,[D] Lord, speak to [Gsus]me [G]
 {eop}
 
 {sop: Chorus}
@@ -19,12 +19,12 @@
 Through Your [Cmaj7]word, through Your [D]Spirit
 Speak Your [F/G]words of [G7]life
 [C#7b5]Speak to [C]me, [D/F#]speak to [Bm7]me [Em7]
-I am [Cmaj7]listening, I am [D]waiting, speak to [G]me [Gsus]
+I am [Cmaj7]listening, I am [D]waiting, speak to [G]me [C] [D]
 {eop}
 
 {sop: Verse 2}
 [G]I am Your servant [Cmaj7]and I am listening
-[Em7]Speak to me, Lord, [D]speak to [C]me
+[Em7]     Speak to me, Lord, [D]speak to [C]me
 [G]My heart is silent, [Cmaj7]my soul is longing 
-[Em7]Speak to me, Lord, [D]speak to [Gsus]me [G]
+[Em7]     Speak to me, Lord, [D]speak to [Gsus]me [G]
 {eop}
