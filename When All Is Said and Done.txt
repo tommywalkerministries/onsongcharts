@@ -1,18 +1,10 @@
 {title: When All Is Said And Done}
 {artist: Tommy Walker}
-{key: D}
+{key: Eb}
 {tempo: 74}
 {time: 4/4}
 {ccli: 3239344}
 {copyright: ©2000 Integrity's Praise! Music}
-
-{title: All I Want}
-{artist: Tommy Walker}
-{key: Eb}
-{tempo: 72}
-{time: 4/4}
-{copyright: © 2002 Maranatha! Music}
-{ccli: 3656157}
 
 {sop: Verse}
 [Eb]When all is said and done
