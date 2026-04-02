@@ -6,34 +6,30 @@
 {ccli: 3239344}
 {copyright: ©2000 Integrity's Praise! Music}
 
+{title: All I Want}
+{artist: Tommy Walker}
+{key: Eb}
+{tempo: 72}
+{time: 4/4}
+{copyright: © 2002 Maranatha! Music}
+{ccli: 3656157}
+
 {sop: Verse}
-[D]When all is said and done [Em/G]
-and [A]ev'ryone is gone [Em7]
-Lord You're [Em7]really all I want [D] [A]
-When the [D]best the world has just 
-leaves me [A]feeling numb [Em/G]
-Lord You're [Em7]really all I want [D] [A]
+[Eb]When all is said and done
+and [Bb]ev'ryone is gone
+[Fm7/Ab]Lord You're really [Fm7]all I want
+When the [Eb]best the world has
+Just [Bb]leaves me feeling numb
+[Fm7/Ab]Lord You're really [Fm7]all I want
 {eop}
 
 {sop: Chorus}
-[D]All that I long for [A]
-all that I hope for [Em7]
-Is [D/F#]just that [G]sense of You 
-[G]coming near [D] [A]
-
-[D]All that my heart is [A]
-hungry to have is [Em7]
-Just [D/F#]one more [G]touch from Your 
-[G]loving hand [D] [A]
-{eop}
-
-{sop: Instrumental}
-| [G] | [A/G] | [G] | [A/G] |
-{eop}
-
-{sop: Tag}
-[G]When all is said and done 
-[D]Lord You're [A]all I [G]want [D]
-[G]When all is said and done 
-[D]Lord You're [A]all I [G]want [D]
+[Eb]All that I long for 
+[Bb]all that I hope for 
+Is [Fm7]just that sense of [Eb/G]You [Ab]coming near
+[Eb]All that my heart is 
+[Bb]Hungry to have is 
+[Fm7]Just one more touch from [Eb/G]Your [Ab]loving hand
+[Eb]When all is said and done
+[Bb]Lord, You're all I [Ab]want
 {eop}
