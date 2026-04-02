@@ -15,8 +15,8 @@
 {sop: Verse 1}
 [E]Here I am a[G#7(#5)]gain just lookin'
 [C#m7]For the words that [Bm7]help me [E7]say that,
-[A]My heart is [E/G#]full of love and [F#7]prais[B7sus]es
-[E]I must have [G#7(#5)]prayed a thousand
+[A]My heart is [E/G#]full of love and [F#7]praises [B7sus]
+[E]     I must have [G#7(#5)]prayed a thousand
 [C#m7]Prayers and sung a [Bm7]hundred [E7]songs,
 But [A]I just have to [B]say a[A/C#]gain [B/D#]
 {eop}
@@ -24,7 +24,7 @@ But [A]I just have to [B]say a[A/C#]gain [B/D#]
 {sop: Chorus}
 [E]Oh [B/D#]how [C#m7]I [Bm7]love [E7]You 
 [A]More than words can [B]say
-[F#m7]In the [E/G#]deepest heart[A]-felt [B7sus]way
+[F#m7]In the [E/G#]deepest heart[A]felt [B7sus]way
 [E]Oh [G#7(#5)]how [C#m7]Lord [Cm7]I [Bm7]love [E7]You 
 [A]Once again re[B]ceive my [E]praise [A/C#]     [B/D#]
 {eop}
@@ -32,9 +32,9 @@ But [A]I just have to [B]say a[A/C#]gain [B/D#]
 {sop: Verse 2}
 [E]So many [G#7(#5)]words, so many [C#m7]songs,
 So many [Bm7]melod[E7]ies, yet,
-[A]Allow me [E/G#]one more decla[F#7]ration [B7sus]     [B7]
-[E]You are the [G#7(#5)]lover of my [C#m7]soul, the center [Bm7]of my [E]life
-So [A]I just [B]have to say a[A/C#]gain    [B/D#]
+[A]Allow me [E/G#]one more decla[F#7]ration [B7sus]
+[E]     You are the [G#7(#5)]lover of my [C#m7]soul, the center [Bm7]of my [E]life
+So [A]I just have to [B]say a[A/C#]gain    [B/D#]
 {eop}
 
 {sop: Chorus}
@@ -42,16 +42,27 @@ So [A]I just [B]have to say a[A/C#]gain    [B/D#]
 [A]More than words can [B]say
 [F#m7]In the [E/G#]deepest heart[A]-felt [B7sus]way
 [E]Oh [G#7(#5)]how [C#m7]Lord [Cm7]I [Bm7]love [E7]You 
-[A]Once again re[B]ceive my [E]praise [A/C#]     [B/D#]
+[A]Once again re[B]ceive my [E]praise
+{eop}
+
+{sop: Interlude}
+[B] [C#m] [A] [E] [F#m7] [E/G#] [A] [E/B] [B]
+[B] [C#m] [A] [E] [F#m7] [E/G#] [A] [E/B] [B]
 {eop}
 
 {sop: Bridge}
 [B]Thank you for a [C#m7]brand new day,
-[A]A brand new chance to [E]stand and say
-[F#m7]I love [E/G#]You [A]  [Bsus]    [B]
+A [A]brand new chance to [E]stand and say
+I [F#m7]love [E/G#]You [A]  [Bsus]    [B]
+[B]Thank you for a [C#m7]brand new day,
+A [A]brand new chance to [E]stand and say
+I [F#m7]love [E/G#]You [A]  [Bsus]    [B]
 [B]Help me find the [C#m7]words to say that
 [A]Tell you in a [E]brand new way
-[F#m7]I love [E/G#]you [A]  [Bsus]    [B]
+I [F#m7]love [E/G#]you [A]  [Bsus]    [B]
+[B]Help me find the [C#m7]words to say that
+[A]Tell you in a [E]brand new way
+I [F#m7]love [E/G#]you [A]  [Bsus]    [B]
 {eop}
 
 {sop: Chorus}
@@ -59,10 +70,16 @@ So [A]I just [B]have to say a[A/C#]gain    [B/D#]
 [A]More than words can [B]say
 [F#m7]In the [E/G#]deepest heart[A]-felt [B7sus]way
 [E]Oh [G#7(#5)]how [C#m7]Lord [Cm7]I [Bm7]love [E7]You 
-[A]Once again re[B]ceive my [E]praise [A/C#]     [B/D#]
+[A]Once again re[B]ceive my [A/C#]praise [B/D#]
+
+[E]Oh [B/D#]how [C#m7]I [Bm7]love [E7]You 
+[A]More than words can [B]say
+[F#m7]In the [E/G#]deepest heart[A]-felt [B7sus]way
+[E]Oh [G#7(#5)]how [C#m7]Lord [Cm7]I [Bm7]love [E7]You 
+[A]Once again re[B]ceive my [E]praise
 {eop}
 
 {sop: Ending}
-[A]Once again re[B]ceive my [E]praise [E]
+[A]Once again re[B]ceive my [E]praise
 {eop}
 
