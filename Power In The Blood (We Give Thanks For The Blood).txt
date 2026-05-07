@@ -71,7 +71,6 @@ In the [C7]blood of the Lamb[F7/A] [Bb]
 There is power[F], power[F/Eb], [Bb/D]wonder-[Bb]working [F]power
 In the [C7]precious blood of the Lamb
 [Bb] [F/A] [Gm7] [F] [C7sus]
-{comment: Repeat}
 {eop}
 
 {sop: Interlude}
@@ -86,6 +85,5 @@ In the [C7]precious blood of the Lamb
 {eop}
 
 {sop: Outro}
-In the [C7]precious blood of the Lamb
-[Bb] [F/A] [Gm7] [Bb] [F/A] [Gm7] [Bb] [F/A] [Gm7] [F]
+In the [C7]precious blood of the Lamb [Bb] [F/A] [Gm7] [Bb] [F/A] [Gm7] [Bb] [F/A] [Gm7] [F]
 {eop}
