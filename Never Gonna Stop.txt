@@ -43,7 +43,7 @@ A [G]thousand years from [D]now before Your [Am7]throne of grace and pow'r [G/B]
 {sop: Bridge}
 Though [D]pressed on every [C]side
 With [D]troubles and fears so [C]near me
-And should the [D]whole wide world deny [C]You, I'll just
+And should the [D]whole wide world deny[C]  You, I'll just
 [Am7]Make it [G/B]louder shout Your [C]name on [D7sus4]high
 {eop}
 
@@ -63,10 +63,10 @@ A [G]thousand years from [D]now before Your [Am7]throne of grace and pow'r [G/B]
 {eop}
 
 {sop: Outro}
-[G]I'll be [D]praising
-[Am7]I'll be [Am7]prai-[G/B]sing [C]You
-[G]I'll be [D]praising
-[Am7]I'll be [Am7]prai-[G/B]sing [C]You
+[G]     I'll be [D]praising
+[Am7]     I'll be [Am7]prai-[G/B]sing [C]You
+[G]     I'll be [D]praising
+[Am7]     I'll be [Am7]prai-[G/B]sing [C]You
 {eop}
 
 {sop: Ending}
