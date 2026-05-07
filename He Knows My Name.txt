@@ -43,12 +43,12 @@ Never le[A]aves me, He hears[E] me when I [B]call
 {eop}
 
 {sop: Chorus}
-[A]He [E]knows my [B]name [E]
-[A]He [E]knows my [B]ev'ry tho[E]ught
-[A]He se[E]es each te[B]ar that [C#m]falls
-And [A]hears me [B]when I [C#m]call
+[A]     He kn[E]ows my n[B]ame[E]
+[A]     He kn[E]ows my [B]ev'ry tho[E]ught
+[A]     He se[E]es each te[B]ar that f[C#m]alls
+And [A]hears me wh[B]en I ca[E]ll
 {eop}
 
 {sop: Outro}
-And [A]hears me [B]when I [E]call
+And [A]hears me wh[B]en I ca[E]ll
 {eop}
