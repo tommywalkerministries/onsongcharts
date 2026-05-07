@@ -17,15 +17,15 @@ Speak the [F#m7]truth [E/G#]to [A]me, let it [F#m7]set [E/G#]me [A]free
 Speak the [E]word, speak the word, speak the word
 The e[B/D#]ternal, divine, holy word
 Let it [F#m7]calm [E/G#]my [A]soul, shape and [F#m7]make [E/G#]me [A]whole
-Speak the [E]word
+Speak the [E]word [B/D#] [A/C#] [A]
 {eop}
 
 {sop: Chorus}
 I will [E]hide it in my he[B/D#]art, [A/C#]cherish every p[Am/C]art
-[E/B]Let it heal, re[C#m7]new, [F#m7]cleanse me thro[E/G#]ugh and thro[B]ugh
-I will [E]make it my de[B/D#]light, [A/C#]living by the li[Am/C]ght
+[E/B]Let it heal, re[C#m7]new, [F#m7]cleanse me through and thro[B]ugh
+I will [E]make it my de[B/D#]light, [A/C#]living by its li[Am/C]ght
 My [E/B]faith I know will [C#m7]rise in these [Amaj7]words so rich and w[B]ise
-Speak the w[E]ord [B/D#] [C#m7] [A]
+Speak the w[E]ord [B/D#] [A/C#] [A]
 {eop}
 
 {sop: Verse 3}
@@ -37,8 +37,8 @@ Let its [F#m7]pow[E/G#]er [A]rise to dis[F#m7]pel [E/G#]all [A]lies
 {sop: Verse 4}
 Speak the [E]word, speak the word, speak the word
 The e[B/D#]ternal, divine, holy word
-Let it [F#m7]light [E/G#]my [A]path as each [F#m7]pro[E/G#]mise [A]stand
-Speak the [E]word
+Let it [F#m7]light [E/G#]my [A]path as each [F#m7]pro[E/G#]mise [A]stands
+Speak the [E]word [Bsus]
 {eop}
 
 {sop: Chorus}
@@ -46,7 +46,6 @@ I will [E]hide it in my he[B/D#]art, [A/C#]cherish every p[Am/C]art
 [E/B]Let it heal, re[C#m7]new, [F#m7]cleanse me thro[E/G#]ugh and thro[B]ugh
 I will [E]make it my de[B/D#]light, [A/C#]living by the li[Am/C]ght
 My [E/B]faith I know will [C#m7]rise in these [Amaj7]words so rich and w[B]ise
-Speak the w[E]ord [B/D#] [C#m7] [A]
 {eop}
 
 {sop: Tag}
