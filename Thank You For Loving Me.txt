@@ -1,6 +1,6 @@
 {title: Thank You For Loving Me}
 {artist: Tommy Walker}
-{key: D}
+{key: G}
 {tempo: 68}
 {time: 4/4}
 {capo: 0}
@@ -8,38 +8,38 @@
 {copyright: ©2003 Integrity's Praise! Music | WeMobile Music}
 
 {sop: Verse 1}
-What [D]love the Father has lavished on [A/C#]us 
-That [A(4)/G]we should be called His [Bm7]sons and [Bm7/A]daughters [G]precious in His sight
-Greater [D]love this world had never [A/C#]seen
-When He [A(4)/G]hung on that tree
-O [Bm7]why would He [Bm7/A]do such a thing for [G/B]dirty sinners like [A/C#]you and me
+What [G]love the Father has lavished on u[D/F#]s 
+That we should be called His [Em7]sons and [Em7/D]daughters [C]precious in His [D]sight
+Greater [G]love this world had never [D/F#]seen
+When He hung on that tree
+O [Em7]why would He [Em7/D]do such a thing for [C]dirty sinners like [Dsus]you and me
 {eop}
 
 {sop: Chorus}
-O [D]God [A/C#]thank You for loving [Bm]me
-When on the [D/A]cross You made [G]history
-Lord You [D/F#]died for me for [G]ever my praise will [Asus]go to [A]Thee
-O [D]God [A/C#]thank You for choosing [Bm]me
-To be Your [D/A]child and bear Your [G]Name
-O [D/F#]Jesus I will [G]never cease to [Asus]sing Your praise
+O G[G]od [D/F#]thank You for loving [Em]me
+When on the [G/D]cross You made histor[C]y
+Lord You [G/B]died for me for [C]ever my praise will [Dsus]go to [D]Thee
+O G[G]od [D/F#]thank You for choosing [Em]me
+To be Your [G/D]child and bear Your N[C]ame
+O [G/B]Jesus I will n[C]ever cease to [Dsus]sing Your praise
 {eop}
 
 {sop: Verse 2}
-[D]Your love is patient and humble and [A/C#]kind
-It's greater than all my [Bm7]sin  
-It [Bm7/A]always protects and [G]trusts and hopes and will [Asus]have no [A]end
-It's Your [D]love that lifted me up from the [A/C#]depths set my feet on a solid [Bm7]rock
-With a [Bm7/A]firm place to stand Lord I [G]always will trust in Your [Asus]loving [A]hand
+Your [G]love is patient and humble and [D/F#]kind
+It's greater than all my [Em7]sin  
+It [Em7/D]always protects and [C]trusts and hopes and will [Dsus]have no [D]end
+It's Your [G]love that lifted me up from the [D/F#]depths set my feet on a solid [Em7]rock
+With a [Em7/D]firm place to stand Lord I [C]always will trust in Your [Dsus]loving [D]hand
 {eop}
 
 {sop: Bridge}
-How [G2]wide how long how [Asus]high how [A]deep
-How [G2]endless is Your [Asus]love for [A]me
-How [G2]wide how long how [Asus]high how [A]deep
-How [G2]endless is Your [A]love for [Asus]me
+How [C2]wide how long how [Dsus]high how [D]deep
+How [C2]endless is Your [Dsus]love for [D]me
+How [C2]wide how long how [Dsus]high how [D]deep
+How [C2]endless is Your [D]love for [Dsus]me
 {eop}
 
 {sop: Ending}
-Thank You for loving [D] me (5X)
-[A/C#]Thank You for loving [Bm7]me [G]
+Thank You for loving [G] me
+[D/F#]     Thank You for loving m[Em7]e [C] (5X)
 {eop}
