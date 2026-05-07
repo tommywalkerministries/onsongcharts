@@ -1,6 +1,6 @@
 {title: To God Be The Glory}
 {artist: Tommy Walker}
-{key: D}
+{key: F}
 {tempo: 100}
 {time: 6/8}
 {capo: 0}
@@ -8,40 +8,39 @@
 {copyright: ©2005 Universal Music - Brentwood Benson Songs}
 
 {sop: Verse 1}
-To [D]God be the [D/F#]glory great [A]things He hath [D7]done 
-So [G]loved He the [D/F#]world that He [E7]gave us His [A]Son 
-Who [D]yielded His [D/F#]life an a- [A]tonement for [D7]sin 
-And [G]opened the [Bm7]life gates that [Asus]all may go [D]in [G] [G/B] [A/C#]
+To [F]God be the [F/A]glory great [C]things He hath [F7]done 
+So [Bb]loved He the [F/A]world that He [G7]gave us His [C]Son 
+Who [F]yielded His [F/A]life an a- [C]tonement for [F7]sin 
+And [Bb]opened the [Dm7]life gates that [Csus]all may [C]go [F]in [Bb] [Bb/D] [C/E]
 {eop}
 
 {sop: Chorus}
-Praise the [D]Lord [A/C#] praise the [Bm7]Lord [D/A]
-Let the [G]earth [D/F#]hear His [Asus]voice [D#°]
-Praise the [Em7]Lord [D#°] praise the [Em7/D]Lord [A/C#]
-Let the [A]peo - [A/C#]ple re - [D]joice [A]
-O [D]come to the [D/F#]Father through [A]Jesus the [D7]Son 
-And [G]give Him the [Bm7]glory
-Great [D/A]things He [A]has [D]done [G] [D] [G]
-(To Chorus) Great [D/A]things He [A]has [D]done [G] [G/B] [A/C#]
+Praise the [F]Lord [C/E] praise the [Dm7]Lord [F/C]
+Let the [Bb]earth [F/A]hear His [Csus]voice [F#dim]
+Praise the [Gm7]Lord [F#°] praise the [Gm7/F]Lord [C/E]
+Let the [C]peopl[C/E]e re[F]joice [C]
+O [F]come to the [F/A]Father through [C]Jesus the [F7]Son 
+And [Bb]give Him the [Dm7]glory
+Great [F/C]things He [C]has [F]done [Bb] [F] [Bb]
 {eop}
 
 {sop: Verse 2}
-O [D]perfect re - [D/F#]demption the [A]purchase of [D7]blood 
-To [G]ev'ry be - [D/F#]liever the [E7]promise of [A]God 
-The [D]vilest of - [D/F#]fender who [A]truly be - [D7]lieves 
-That [G]moment from [Bm7]Jesus a [A/D]pardon [A]re - [D]ceives [G] [D] [G]
+O [F]perfect re - [F/A]demption the [C]purchase of [F7]blood 
+To [Bb]ev'ry be - [F/A]liever the [G7]promise of [C]God 
+The [F]vilest of - [F/A]fender who [C]truly be - [F7]lieves 
+That [Bb]moment from [Dm7]Jesus a [Csus]pardon [C]re - [F]ceives [Bb] [F] [Bb]
 {eop}
 
 {sop: Verse 3}
-Great [D]things He hath [D/F#]taught us great [A]things He hath [D7]done 
-And [G]great our re - [D/F#]joicing through [E7]Jesus the [A]Son 
-But [D]purer and [D/F#]higher and [A]greater will [D7]be 
-Our [G]wonder our [Bm7]transport when [A/D]Jesus [A]we [D]see [G] [G/B] [A/C#]
+Great [F]things He hath [F/A]taught us great [C]things He hath [F7]done 
+And [Bb]great our re - [F/A]joicing through [G7]Jesus the [C]Son 
+But [F]purer and [F/A]higher and [C]greater will [F7]be 
+Our [Bb]wonder our [Dm7]transport when [Csus]Jesus [C]we [F]see [Bb] [Bb/D] [C/E]
 {eop}
 
 {sop: Bridge}
-[A]Glory [Bm7] glory [G] glory [D/F#] glory 
-[Em7]Give Him [G]glory great [E7/G#]things He has [A]done [E7]
-[A]Glory [Bm7] glory [G] glory [D/F#] glory 
-[Em7]Give Him [G]glory great [D/A]things He [A]has [D]done [(G] [G/B] [A/C#)]
+[C]Glory, [Dm7] glory, [Bb] glory, [F/A] glory 
+[Gm7]Give Him [Bb]glory great [G7/B]things He has [C]done [G7]
+[C]Glory, [Dm7] glory, [Bb] glory, [F/A] glory 
+[Gm7]Give Him [Bb]glory great [Csus]things He [C]has [F]done [Bb] [F] [Bb] [F]
 {eop}
