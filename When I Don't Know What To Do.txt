@@ -16,12 +16,12 @@
 
 {sop: Chorus}
 When I [Em7]don't know [D/F#]what to do [G]
-[G]I'll [Em7]lift my [D]hands
-When I [D]don't know [Em7]what to say[Am7]
+[G]I'll lif[Em7]t my [D]hands
+When I [Dsus]don't know [Em7]what to say[Am7]
 [Am7]I'll [G/B]speak [C]Your [D]praise
 When I [Em7]don't know [D/F#]where to go [G]
-I'll [G]run [Em7]to Your [D]throne
-When I [D]don't know [Em7]what to think[Am7]
+I'll [G]run to[Em7]  Your [D]throne
+When I [Dsus]don't know [Em7]what to think[Am7]
 I'll [Am7]stand [G/B]on [C]Your [D]truth
 When I [Em7]don't know [D/F#]what to do [G]
 {eop}
@@ -33,10 +33,10 @@ When I [Em7]don't know [D/F#]what to do [G]
 [G] [Em] [D] [D] [Em7] [Am7] [Am7] [G/B] [C] [D]
 
 {sop: Bridge}
-[C]As I bow my knee
+[C]     As I bow my knee
 Send Your perfect peace
 Send Your perfect peace Lord[G/B]
-[Am7]As I lift my hands
+[Am7]     As I lift my hands
 Let Your healing come
 Let Your healing come to [G/B]me
 {comment: Repeat}
@@ -47,18 +47,18 @@ Let Your healing come to [G/B]me
 {transpose: +2}
 
 {sop: Chorus}
-When I [C/E]don't know [D/F#]what to do [G]
-[G]I'll [Em7]lift my [D]hands
-When I [D]don't know [Em7]what to say[Am7]
+When I [Em7]don't know [D/F#]what to do [G]
+[G]I'll lif[Em7]t my [D]hands
+When I [Dsus]don't know [Em7]what to say[Am7]
 [Am7]I'll [G/B]speak [C]Your [D]praise
 When I [Em7]don't know [D/F#]where to go [G]
-I'll [G]run [Em7]to Your [D]throne
-When I [D]don't know [Em7]what to think[Am7]
+I'll [G]run to[Em7]  Your [D]throne
+When I [Dsus]don't know [Em7]what to think[Am7]
 I'll [Am7]stand [G/B]on [C]Your [D]truth
 When I [Em7]don't know [D/F#]what to do [G]
 {eop}
 
 {sop: Outro}
-[G] [Em7] [D] [D] [Em7] [Am7] [Am7] [G/B]
+[G] [Em7] [D] [D] [Em7] [Am7] [Am7] [G/B] [C]
 [D]     When I [Em7]don't know [D/F#]what to do [G]
 {eop}
