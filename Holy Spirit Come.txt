@@ -10,24 +10,22 @@
 {sop: Verse}
 [C]Holy [Am11]Spirit [F]come [Em11] [Eb7(b5)]
 [D7]Holy [C/E]Spir[D7/F#]it [G]move [G/F]
-[C/E]Take Your [F]right[C/E]ful [Abdim]place in [Am6]us 
+Come [C/E]take Your [F]right[C/E]ful [Abdim]place in [Am7]us 
 [Dm7]Holy [G7sus]Spirit [C]come
 
 [C]Holy [Am11]Spirit [F]reign [Em11] [Eb7(b5)]
 [D7]Holy [C/E]Spir[D7/F#]it [G]move [G/F]
-[C/E]Take Your [F]right[C/E]ful [Abdim]place in [Am6]us 
-[Dm7]Holy [G7sus]Spirit [C]come
+[C/E]Take Your [F]right[C/E]ful [Abdim]place in [Am7]us 
+[Dm7]Holy [G7sus]Spirit [C]come [Csus]
 {eop}
 
 {sop: Chorus / Bridge}
-Bring Your [C]hope
-Bring Your love
-Bring Your [G/B]joy
-Bring Your peace
+Bring Your [C]hope, bring Your love
+Bring Your [G/B]joy, bring Your peace
 Breathe new [Am]life in us
 Holy [Am7]Spi[G]rit [F]come
 Let Your [C]Spirit wind blow strong
-Give us str[G/B]ength to carry on
+Give us [G/B]strength to carry on
 Let your [Am]fire burn
 Holy [Am7]Spi[G]rit [F]come
 {eop}
