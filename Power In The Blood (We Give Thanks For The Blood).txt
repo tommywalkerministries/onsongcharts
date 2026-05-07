@@ -22,7 +22,7 @@ There's [C]wonderful power in the blood
 
 {sop: Chorus}
 There is power[F], power[F], [Bb]wonder-working [F]power
-In the [C7]blood of the [F7/A]Lamb[Bb]
+In the [C7]blood of the Lamb[F7/A] [Bb]
 There is power[F], power[F/Eb], [Bb/D]wonder-[Bb]working [F]power
 In the [C7]precious blood of the Lamb
 [Bb] [F/A] [Gm7] [F] [C7sus]
@@ -34,6 +34,17 @@ There's [C]power in the blood, [F]power in the blood
 [F]Come for a cleansing to [Bb]Calvary's [F]tide
 There's [C]wonderful power in the blood
 [Bb] [F/A] [Gm7] [F] [C7sus]
+{eop}
+
+{sop: Chorus}
+There is power[F], power[F], [Bb]wonder-working [F]power
+In the [C7]blood of the Lamb[F7/A] [Bb]
+There is power[F], power[F/Eb], [Bb/D]wonder-[Bb]working [F]power
+In the [C7]precious blood of the Lamb
+{eop}
+
+{sop: Interlude}
+[Cm7] [F7] [Bbmaj7] [Eb7] [Cm7] [F7] [Bbmaj7] [Eb7]
 {eop}
 
 {sop: New Chorus}
@@ -56,10 +67,15 @@ There's [C7]wonderful power in the blood
 
 {sop: Chorus}
 There is power[F], power[F], [Bb]wonder-working [F]power
-In the [C7]blood of the [F7/A]Lamb[Bb]
+In the [C7]blood of the Lamb[F7/A] [Bb]
 There is power[F], power[F/Eb], [Bb/D]wonder-[Bb]working [F]power
 In the [C7]precious blood of the Lamb
 [Bb] [F/A] [Gm7] [F] [C7sus]
+{comment: Repeat}
+{eop}
+
+{sop: Interlude}
+[Cm7] [F7] [Bbmaj7] [Eb7] [Cm7] [F7] [Bbmaj7] [Eb7]
 {eop}
 
 {sop: New Chorus}
@@ -70,7 +86,6 @@ In the [C7]precious blood of the Lamb
 {eop}
 
 {sop: Outro}
-[Dm7] [G7] [Cmaj7] [F7] [Dm7] [G7] [Cmaj7] [F7]
-In the precious blood of the [G]Lamb
-[C] [G/B] [Am7] [C] [G/B] [Am7] [C] [G/B] [Am7] [G]
+In the [C7]precious blood of the Lamb
+[Bb] [F/A] [Gm7] [Bb] [F/A] [Gm7] [Bb] [F/A] [Gm7] [F]
 {eop}
