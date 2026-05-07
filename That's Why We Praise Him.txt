@@ -36,7 +36,7 @@ He came to [C]go [G]     prepare a [F]place [G/F]for [F]us [G]
 
 {sop: Bridge}
 [C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F]hallelu - [G]jah
-[C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F2]hallelu - [G]jah
+[C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F]hallelu - [G]jah
 [C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F]hallelu - [G]jah
 [C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F]hal[G/F]le[F]lu - [G]jah
 {eop}
