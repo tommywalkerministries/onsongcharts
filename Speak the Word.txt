@@ -8,44 +8,49 @@
 {copyright: ©2016 McKinney Music, Inc. (BMI)}
 
 {sop: Verse 1}
-[E]Speak the word, speak the word, speak the word
+Speak the [E]word, speak the word, speak the word
 The e[B/D#]ternal, infallible word
-[F#m7]Speak the [E/G#]truth to [A]me, let it [F#m7]set [E/G#]me [A]free
+Speak the [F#m7]truth [E/G#]to [A]me, let it [F#m7]set [E/G#]me [A]free
 {eop}
 
 {sop: Verse 2}
-[E]Speak the word, speak the word, speak the word
+Speak the [E]word, speak the word, speak the word
 The e[B/D#]ternal, divine, holy word
-[F#m7]Let it [E/G#]calm my [A]soul, [F#m7]shape and [E/G#]make me [A]whole [E]speak the word
+Let it [F#m7]calm [E/G#]my [A]soul, shape and [F#m7]make [E/G#]me [A]whole
+Speak the [E]word
 {eop}
 
 {sop: Chorus}
-[E]I will [B/D#]hide it [A/C#]in my [Am/C]heart, cherish every part
-[E/B]Let it [C#m7]heal, re[F#m7]new, [E/G#]cleanse me [B]through and through
-[E]I will [B/D#]make it [A/C#]my de[Am/C]light, living by the light
-[E/B]My [C#m7]faith I [Amaj7]know will rise in these [B]words so rich and wise
-[E] [B/D#] [C#m7] [A]Speak the word
+I will [E]hide it in my he[B/D#]art, [A/C#]cherish every p[Am/C]art
+[E/B]Let it heal, re[C#m7]new, [F#m7]cleanse me thro[E/G#]ugh and thro[B]ugh
+I will [E]make it my de[B/D#]light, [A/C#]living by the li[Am/C]ght
+My [E/B]faith I know will [C#m7]rise in these [Amaj7]words so rich and w[B]ise
+Speak the w[E]ord [B/D#] [C#m7] [A]
 {eop}
 
-{sop: Verse 3 (Key Change)}
-[A]Speak the word, speak the word, speak the word
-The e[E/G#]ternal, infallible word
-[Bm7]Let its [A/C#]pow- [D]er rise [Bm7]to dis[A/C#]pel all [D]lies
+{sop: Verse 3}
+Speak the [E]word, speak the word, speak the word
+The e[B/D#]ternal, infallible word
+Let its [F#m7]pow[E/G#]er [A]rise to dis[F#m7]pel [E/G#]all [A]lies
 {eop}
 
 {sop: Verse 4}
-[A]Speak the word, speak the word, speak the word
-The e[E/G#]ternal, divine, holy word
-[Bm7]Let it [A/C#]light my [D]path as [Bm7]each pro- [A/C#]mise [D]stand, [A]speak the word
+Speak the [E]word, speak the word, speak the word
+The e[B/D#]ternal, divine, holy word
+Let it [F#m7]light [E/G#]my [A]path as each [F#m7]pro[E/G#]mise [A]stand
+Speak the [E]word
 {eop}
 
 {sop: Chorus}
-[A]I will [E/G#]hide it [D/F#]in my [Dm/F]heart, cherish every part
-[A/E]Let it [F#m7]heal, re[Dmaj7]new, [E]cleanse me through and through
-[A]I will [E/G#]make it [D/F#]my de[Dm/F]light, living by it's light
-[A/E]My [F#m7]faith I [Dmaj7]know will rise in these [E]words so rich and wise
+I will [E]hide it in my he[B/D#]art, [A/C#]cherish every p[Am/C]art
+[E/B]Let it heal, re[C#m7]new, [F#m7]cleanse me thro[E/G#]ugh and thro[B]ugh
+I will [E]make it my de[B/D#]light, [A/C#]living by the li[Am/C]ght
+My [E/B]faith I know will [C#m7]rise in these [Amaj7]words so rich and w[B]ise
+Speak the w[E]ord [B/D#] [C#m7] [A]
 {eop}
 
 {sop: Tag}
-[A]Speak the word, [E/G#] [D/F#] [D] [A]Speak the word
+Speak the [E]word, [B/D#] Speak the w[A/C#]ord [A]
+Speak the [E]word, [B/D#] Speak the w[A/C#]ord [A]
+Speak the [E]word.
 {eop}
