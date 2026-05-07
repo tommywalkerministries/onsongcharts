@@ -15,9 +15,8 @@ with [Dm/F]mercies brand [E7sus]new
 {eop}
 
 {sop: Pre-Chorus (Duet)}
-[C#7]But be[B/D#]cause [C#/F]there is [F#m9]no one 
-[F#m7/E]above You
-[D]Just because You are our [E7sus]God [D/F#] [E/G#]
+[C#7]     But be[B/D#]cause [C#/F]there is [F#m9]no one a[F#m7/E]bove You
+[D]     Just because You are our [E7sus]God [D/F#] [E/G#]
 {eop}
 
 {sop: Chorus}
@@ -35,18 +34,24 @@ The [C#m7]maker of [F#m]all that there [Bm7]is,
 the [Dm/F]judge over [E7sus]all
 {eop}
 
-{sop: Pre-Chorus (Women Melody / Men Tenor)}
-[C#7]And be[B/D#]cause [C#/F]there is [F#m9]no one 
-[F#m7/E]above You
-[D]Just because You are our [E7sus]God [D/F#] [E/G#]
+{sop: Pre-Chorus}
+[C#7]     And be[B/D#]cause [C#/F]there is [F#m9]no one a[F#m7/E]bove You
+[D]     Just because You are our [E7sus]God [D/F#] [E/G#]
+{eop}
+
+{sop: Chorus}
+We [A2]worship [C#m7]You, [F#m7]
+we [Bm7]worship [Dm/F]You [E7sus]
+We [A2]honor [C#m7]You, [F#m7]
+we [Bm7]honor [Dm/F]You [E7sus]
 {eop}
 
 {sop: Vamp 1}
-All [A]blessing, all honor, [C#m7]all glory, [F#m7]all power
+All [A]blessing, all honor, all [C#m7]glory, all [F#m7]power
 All [Bm7]strength and all wisdom
 Be [Dm/F]unto the Lamb and [E7sus]unto the King
 
-All [A]blessing, all honor, [C#m7]all glory, [F#m7]all power
+All [A]blessing, all honor, all [C#m7]glory, all [F#m7]power
 All [Bm7]strength and all wisdom
 Be [Dm/F]unto the Lamb and [E7sus]unto the King
 {eop}
@@ -60,11 +65,14 @@ Let [Dm/F]every knee bow and [E7sus]everyone shout
 
 {sop: Vamp 3}
 The [A]Alpha Omega, 
-[C#m7]Beginning and [F#m7]Ending
+Be[C#m7]ginning and [F#m7]Ending
 Cre[Bm7]ator and Ruler
 Of [Dm/F]all that is seen and [E7sus]ever will be
 {eop}
 
 {sop: Outro}
-[A] [C#m7] [F#m7] [Bm7] [Dm/F] [E7sus] [A]
+We [A2]worship [C#m7]You, [F#m7]
+we [Bm7]worship [Dm/F]You [E7sus]
+We [A2]honor [C#m7]You, [F#m7]
+we [Bm7]honor [Dm/F]You [E7sus] [A]
 {eop}
