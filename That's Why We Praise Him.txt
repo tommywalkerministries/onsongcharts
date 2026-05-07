@@ -8,25 +8,25 @@
 {copyright: ©1999 Universal Music Brentwood Benson Songs | WeMobile Music}
 
 {sop: Verse 1}
-He came to [C]live, [G]live a [F]perfect [G]life  
-He came to [C]be [G]the Living [F]Word, our [G]light  
-He came to [C]die [G]so we'd be [F]recon[G]ciled  
-He came to [C]rise [G]to show His [F]pow'r [G/F]and [F]mi[G]ght   
+He came to [C]live, [G]     live a [F]perfect [G]life  
+He came to [C]be [G]     the Living [F]Word, our [G]light  
+He came to [C]die [G]     so we'd be [F]recon[G]ciled  
+He came to [C]rise [G]     to show His [F]pow'r [G/F]and [F]mi[G]ght   
 {eop}
 
 {sop: Chorus}
-[C]That's why we [G]praise Him, [F]that's why we [G]sing
-[C]That's why we [G]offer Him our [F]ev[G/F]'ry-[F]thi[G]ng
-[C]That's why we [G]bow down and [F]worship this King
+[C]That's why we pra[G]ise Him, [F]that's why we s[G]ing
+[C]That's why we o[G]ffer Him our [F]ev[G/F]'ry[F]thi[G]ng
+[C]That's why we b[G]ow down and [F]worship this King
 'Cause He [Dm]gave [C/E]His [Dm/F]ev[Gsus]'ry [Am]thing [Gsus]
 'Cause He [Dm]gave [C/E]His [Dm/F]ev[G7]'ry [C]thing
 {eop}
 
 {sop: Verse 2}
-He came to [C]live, [G]live a[F]gain in [G]us  
-He came to [C]be [G]our conquering [F]King and [G]friend  
-He came to [C]heal [G]and show the [F]lost ones His [G]love  
-He came to [C]go [G]prepare a [F]place [G/F]for [F]us [G]
+He came to [C]live, [G]     live a[F]gain in [G]us  
+He came to [C]be [G]     our conquering [F]King and [G]friend  
+He came to [C]heal [G]     and show the [F]lost ones His [G]love  
+He came to [C]go [G]     prepare a [F]place [G/F]for [F]us [G]
 {eop}
 
 {sop: Interlude}
@@ -35,10 +35,10 @@ He came to [C]go [G]prepare a [F]place [G/F]for [F]us [G]
 {eop}
 
 {sop: Bridge}
-[C]Hal - [G/B]le, [F]hallelu - [G]jah, [C]hal - [G/B]le, [F]hallelu - [G]jah
-[C]Hal - [G/B]le, [F]hallelu - [G]jah, [C]hal - [G/B]le, [F2]hallelu - [G]jah
 [C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F]hallelu - [G]jah
-[C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F]hal[C/F]le[F]lu - [G]jah
+[C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F2]hallelu - [G]jah
+[C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F]hallelu - [G]jah
+[C]Hal - [G]le, [F]hallelu - [G]jah, [C]hal - [G]le, [F]hal[G/F]le[F]lu - [G]jah
 {eop}
 
 {sop: Ending}
