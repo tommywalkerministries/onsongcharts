@@ -6,35 +6,35 @@
 {copyright: ©2004 WeMobile Music}
 
 {sop: Chorus 1}
-[D]We will remember, [G]we will remember
-[D]we will remember the [D]works [A/C#]of [Bm7]Your [A]hands [D] [D7/F#] [G] [Em7]
-We will [D/A]stop and give You [A7sus4]praise 
-for [D]great is Thy [G]faith[D/F#]ful[Em7]ness [D]
+[D]     We will remember, [G]     we will remember
+[D]     we will remember the [D]works [A/C#]of [Bm7]Your [A]hands   
+[D]     We will stop[D7/F#]  [G]and give You [Em7]praise 
+for [D/A]great is Thy [A7sus]faithfulne[D]ss [G] [D/F#] [Em]
 {eop}
 
 {sop: Verse 1}
-[G/D]You're our cre[D]ator [D/F#]our life sustainer 
-[Bm7]deliverer our [A]comfort our joy [D]
-[G]Throughout the [D/A]ag-es [A7sus4]You've been our [D]shelter 
-our [G]peace [D/F#]in the [Em7]midst of the [A]storm
+[D]     You're our creator, [G]     our life sustainer 
+[D/F#]     deliverer our [Bm]comfort our j[A]oy 
+[D]     Throughout the ages [G]     You've been our shelter 
+our [D/A]peace in the [A7sus]midst of the [D]storm [G] [D/F#] [Em]
 {eop}
 
 {sop: Verse 2}
-[G/D]With signs and [D]won-ders [D/F#]You've shown Your pow-er 
-[Bm7]with precious blood You [A]showed us Your grace [D]
-[G]You've been our [D/A]help-er [A7sus4]our liberator 
-the [D]giv[G]er [D/F#]of [Em7]life [A]with no end
+[D]     With signs and wonders, [G]      You've shown Your power 
+[D/F#]     with precious blood You [Bm]showed us Your gr[A]ace
+[D]     You've been our helper [G]     our liberator 
+the [D/A]giver of [A7sus]life with no [D]end
 {eop}
 
 {sop: Verse 3}
-[G/D]When we walk [D]through [D/F#]lifes dark-est vall-eys 
-[Bm7]we will look back [A]at all You have done [D]
-[G]And we will [D/A]shout [A7sus4]our God is good 
-and [D]He [G]is [D/F#]the [Em7]faith-[A]ful one
+[D]     When we walk through [G]     lifes darkest valleys 
+[D/F#]     we will look back at [Bm]all You have d[A]one
+[D]     And we will shout [D/F#] [G]     our God is good 
+and [D/A]He is the [A7sus]faithful o[D]ne
 {eop}
 
 {sop: Bridge}
-[A]Hallelujah, [A] [Bm7] [Bm7]     hallelujah [D/F#]
+[A]     Hallelujah, [A] [A] [Bm7] [Bm7]     hallelujah [D/F#]
 to the [G]one from [D]whom all blessings [A]flow [E7] [E7] [A] [A]
 Ha-lle-lu-jah, [A] [Bm7] [Bm7]     hallelujah [D/F#]
 to the [G]one whose [D]glory has been [A]shown [B7sus] [B7]
@@ -43,22 +43,22 @@ to the [G]one whose [D]glory has been [A]shown [B7sus] [B7]
 {transpose: +2}
 
 {sop: Chorus 2}
-[D]We will re-mem-ber, [G]we will re-mem-ber 
-[D]we will re-mem-ber the [D]works [A/C#]of [Bm7]Your [A]hands [D] [D7/F#] [G] [Em7]
-We will [D/A]stop and give You [A7sus4]praise 
-for [D]great is Thy [G]faith-[D/F#]ful-[Em7]ness [D]
+[D]     We will remember, [G]     we will remember
+[D]     we will remember the [D]works [A/C#]of [Bm7]Your [A]hands   
+[D]     We will stop[D7/F#]  [G]and give You [Em7]praise 
+for [D/A]great is Thy [A7sus]faithfulne[D]ss [G] [D/F#] [Em]
 {eop}
 
 {sop: Verse 4}
-[D]I still re-mem-ber [G/D]the day You saved me 
-[D/F#]the day I heard You [Bm7]call out my [A]name [D]
-[G]You said You loved me [D/A]and would nev-er leave me 
-and [A7sus4]I've nev-er be-en the [D]same [G] [D/F#] [Em7] [D]
+[D]     I still remember [G/D]     the day You saved me 
+[D/F#]     the day I heard You [Bm7]call out my n[A]ame 
+[D]     You said You loved me [G]     would never leave me 
+and [D/A]I've never [A7sus]been the s[D]ame [G] [D/F#] [Em7]
 {eop}
 
 {sop: Ending}
-[D]We will re-mem-ber, [G]we will re-mem-ber 
-[D]we will re-mem-ber the [D]works [A/C#]of [Bm7]Your [A]hands [D]
-We will [D/A]stop and give You [A7sus4]praise 
-for [D]great is Thy [G]faith-[D/F#]ful-[Em7]ness [D]
+[D]     We will remember, [G]     we will remember
+[D]     we will remember the [D]works [A/C#]of [Bm7]Your [A]hands   
+[D]     We will stop[D7/F#]  [G]and give You [Em7]praise 
+for [D/A]great is Thy [A7sus]faithfulne[D]ss [G] [D/F#] [Em]
 {eop}
